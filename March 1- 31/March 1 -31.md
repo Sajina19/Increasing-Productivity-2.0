@@ -2,7 +2,7 @@
 >**Tasks**
 - ☑ [Typing-->](keybr.com)    
 - ☑ Solved daily workout in elevate
-- ☑ Solved daily workout in Lumosity
+- ☑ Played daily workout in Lumosity
 
 ## March 2 ##
 March 2 - Went for a function
@@ -11,8 +11,8 @@ March 2 - Went for a function
 >**Tasks**
 - ☑ [Typing-->](keybr.com)    
 - ☑ Solved daily workout in elevate
-- ☑ Solved daily workout in Lumosity
-- ☑ Read 5 pages in the book-Monk who sold his ferrari
+- ☑ Played daily workout in Lumosity
+- ☑ Read 5 pages in the book-The Monk who sold his ferrari
 - ☑ Watched Tedx talks
 - ☑ Played chess
 
@@ -21,7 +21,23 @@ March 2 - Went for a function
 - ☑ [Typing-->](keybr.com)    
 - ☑ Solved daily workout in elevate
 - ☑ Solved daily workout in Lumosity
-- ☑ Read 5 pages in the book-Monk who sold his ferrari
+- ☑ Read 5 pages in the book-The Monk who sold his ferrari
 - ☑ Watched Tedx talk - How to get your brain to focus.
 
+March 5 - Went for a function
 
+## March 6 ##
+>**Tasks**
+- ☑ [Typing-->](keybr.com)    
+- ☑ Solved daily workout in elevate
+- ☑ Watched Tedx talk - The Secret to acheiving the "impossible".
+- ☑ Completed the programming course - SQL - H002 SELECT OPERATORS
+- ☑ [Played chess](chess.com)
+
+## March 7 ##
+>**Tasks**
+- ☑ [Typing-->](keybr.com)    
+- ☑ Solved daily workout in elevate
+- ☑ Logic puzzle 
+- ☑ Watched video-Python beginning to advance level  
+- ☑ Played daily workout in Lumosity
