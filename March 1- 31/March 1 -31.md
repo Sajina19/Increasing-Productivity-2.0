@@ -41,3 +41,24 @@ March 5 - Went for a function
 - ☑ Logic puzzle 
 - ☑ Watched video-Python beginning to advance level  
 - ☑ Played daily workout in Lumosity
+
+## March 8 ##
+>**Tasks**
+- ☑ [Typing-->](keybr.com)    
+- ☑ Solved daily workout in elevate
+- ☑ Logic puzzle 
+- ☑ Played daily workout in Lumosity
+
+## March 9 ##
+>**Tasks**
+- ☑ [Typing-->](keybr.com)    
+- ☑ Solved daily workout in elevate
+- ☑ Logic puzzle 
+- ☑ Played daily workout in Lumosity
+
+## March 10 ##
+>**Tasks**
+- ☑ [Typing-->](keybr.com)    
+- ☑ Solved daily workout in elevate
+- ☑ Logic puzzle  
+- ☑ Played daily workout in Lumosity
