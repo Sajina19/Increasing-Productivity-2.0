@@ -61,4 +61,11 @@ March 5 - Went for a function
 - ☑ [Typing-->](keybr.com)    
 - ☑ Solved daily workout in elevate
 - ☑ Logic puzzle  
+- ☑ Solved 2 problems in sql - Hackerank
+
+
+## March 11 ##
+>**Tasks**
+- ☑ [Typing-->](keybr.com)    
+- ☑ Solved daily workout in elevate 
 - ☑ Played daily workout in Lumosity
