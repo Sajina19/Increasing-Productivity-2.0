@@ -70,3 +70,9 @@ March 5 - Went for a function
 - ☑ [Typing-->](keybr.com)    
 - ☑ Solved daily workout in elevate 
 - ☑ Played daily workout in Lumosity
+
+## March 12 ##
+>**Tasks**
+- ☑ [Typing-->](keybr.com)    
+- ☑ Solved daily workout in elevate 
+- ☑ Played daily workout in Lumosity
