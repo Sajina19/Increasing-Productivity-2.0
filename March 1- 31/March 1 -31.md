@@ -77,3 +77,11 @@ March 5 - Went for a function
 - ☑ Solved daily workout in elevate 
 - ☑ Played daily workout in Lumosity
 - ☑ Solved 3 problems in C
+
+
+## March 13 ##
+>**Tasks**
+- ☑ [Typing-->](keybr.com)    
+- ☑ Solved daily workout in elevate 
+- ☑ Played daily workout in Lumosity
+
