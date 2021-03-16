@@ -99,3 +99,11 @@ March 5 - Went for a function
 - ☑ Solved daily workout in elevate 
 - ☑ Played daily workout in Lumosity
 - ☑ Created login application using android studio
+
+
+## March 16 ##
+>**Tasks**
+- ☑ [Typing-->](keybr.com)    
+- ☑ Solved daily workout in elevate 
+- ☑ Played daily workout in Lumosity
+- ☑ Solved aggreagate functions in sql - skillrack
