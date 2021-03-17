@@ -107,3 +107,8 @@ March 5 - Went for a function
 - ☑ Solved daily workout in elevate 
 - ☑ Played daily workout in Lumosity
 - ☑ Solved aggreagate functions in sql - skillrack
+
+## March 17 ##
+>**Tasks**
+- ☑ [Typing-->](keybr.com)     
+- ☑ Played daily workout in Lumosity
