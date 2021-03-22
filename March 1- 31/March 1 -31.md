@@ -131,3 +131,9 @@ March 5 - Went for a function
 >**Tasks**
 - ☑ [Typing-->](keybr.com)     
 - ☑ Played daily workout in Lumosity
+
+
+## March 22 ##
+>**Tasks**
+- ☑ [Typing-->](keybr.com)     
+- ☑ Played daily workout in Lumosity
