@@ -147,3 +147,5 @@ March 5 - Went for a function
 >**Tasks**
 - ☑ [Typing-->](keybr.com)     
 - ☑ Played daily workout in Lumosity
+- ☑ Read BBC news
+- ☑ Read 5 pages in the book of Author Robin Sharma - The Monk Who Sold His Ferrari
