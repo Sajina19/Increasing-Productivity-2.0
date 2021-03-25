@@ -143,14 +143,14 @@ March 5 - Went for a function
 - ☑ [Typing-->](keybr.com)     
 - ☑ Played daily workout in Lumosity
 
-## March 24##
+## March 24 ##
 >**Tasks**
 - ☑ [Typing-->](keybr.com)     
 - ☑ Played daily workout in Lumosity
 - ☑ Read BBC news
 - ☑ Read 5 pages in the book of Author Robin Sharma - The Monk Who Sold His Ferrari
 
-## March 25##
+## March 25 ##
 >**Tasks**
 - ☑ [Typing-->](keybr.com)     
 - ☑ Played daily workout in Lumosity
