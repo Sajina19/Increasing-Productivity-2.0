@@ -155,3 +155,10 @@ March 5 - Went for a function
 - ☑ [Typing-->](keybr.com)     
 - ☑ Played daily workout in Lumosity
 - ☑ Read 5 pages in the book of Author Robin Sharma - The Monk Who Sold His Ferrari
+- ☑ Solved SQL problems in Hackerrank
+
+## March 26 ##
+>**Tasks**
+- ☑ [Typing-->](keybr.com)     
+- ☑ Played daily workout in Lumosity
+- ☑ Read 5 pages in the book of Author Robin Sharma - The Monk Who Sold His Ferrari
