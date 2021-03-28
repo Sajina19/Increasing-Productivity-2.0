@@ -169,3 +169,9 @@ March 5 - Went for a function
 - ☑ [Typing-->](keybr.com)     
 - ☑ Played daily workout in Lumosity
 - ☑ Read about Blockchain
+
+
+## March 28 ##
+>**Tasks**
+- ☑ [Typing-->](keybr.com)     
+- ☑ Played daily workout in Lumosity
