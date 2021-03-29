@@ -175,3 +175,9 @@ March 5 - Went for a function
 >**Tasks**
 - ☑ [Typing-->](keybr.com)     
 - ☑ Played daily workout in Lumosity
+
+## March 29 ##
+>**Tasks**
+- ☑ [Typing-->](keybr.com)     
+- ☑ Played daily workout in Lumosity
+- ☑ Solved SQL H004 Update Basics in skill rack.
