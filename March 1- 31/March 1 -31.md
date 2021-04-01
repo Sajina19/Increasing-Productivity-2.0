@@ -182,10 +182,10 @@ March 5 - Went for a function
 - ☑ Played daily workout in Lumosity
 - ☑ Solved SQL H004 Update Basics in skill rack.
 
-## March 29 ##
+## March 30 ##
 >**Tasks**
 - ☑ Played daily workout in Lumosity
 
-## March 30 ##
+## March 31##
 >**Tasks**
 - ☑ [Typing-->](keybr.com) 
