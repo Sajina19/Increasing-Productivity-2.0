@@ -17,3 +17,5 @@
 >**Tasks**
 - ✅ [Typing-->](keybr.com)     
 - ✅ Played daily workout in Lumosity
+- ✅ Read BBC news
+- ✅ Read blog about AI
