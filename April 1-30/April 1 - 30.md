@@ -12,3 +12,8 @@
 >**Tasks**
 - ✅ [Typing-->](keybr.com)     
 - ✅ Played daily workout in Lumosity
+
+## April 4 ##
+>**Tasks**
+- ✅ [Typing-->](keybr.com)     
+- ✅ Played daily workout in Lumosity
