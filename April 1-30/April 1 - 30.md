@@ -25,3 +25,4 @@
 >**Tasks**
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played chess
+- ✅ Played daily workout in Lumosity
