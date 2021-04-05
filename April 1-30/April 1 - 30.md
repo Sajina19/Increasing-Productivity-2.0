@@ -19,3 +19,9 @@
 - ✅ Played daily workout in Lumosity
 - ✅ Read BBC news
 - ✅ Read blog about AI
+
+
+## April 5 ##
+>**Tasks**
+- ✅ [Typing-->](keybr.com)  
+- ✅ Played chess
