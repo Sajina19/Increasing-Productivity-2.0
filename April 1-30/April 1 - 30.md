@@ -26,3 +26,8 @@
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played chess
 - ✅ Played daily workout in Lumosity
+
+
+## April 6 ##
+>**Tasks**
+- ✅ [Typing-->](keybr.com)  
