@@ -34,3 +34,10 @@
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played daily workout in Lumosity
 - ✅ Web development - Created Running car website using html,css and js.
+
+
+## April 7 ##
+>**Tasks**
+- ✅ [Typing-->](keybr.com)  
+- ✅ Played daily workout in Lumosity.
+- ✅ Solved sql,java problems in skillrack.
