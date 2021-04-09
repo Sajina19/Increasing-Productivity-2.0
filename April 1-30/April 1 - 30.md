@@ -48,3 +48,10 @@
 - ✅ Solved C,SQL,java problem in skillrack.
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played daily workout in Lumosity.
+
+
+## April 9 ##
+>**Tasks**
+- ✅ Solved SQL,java problem in skillrack.
+- ✅ [Typing-->](keybr.com)  
+- ✅ Played daily workout in Lumosity.
