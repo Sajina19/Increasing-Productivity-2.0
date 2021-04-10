@@ -66,3 +66,7 @@
        8.Min and Max
        9.Count,Avg,Sum
        10.Like
+
+## April 10 ##
+>**Tasks**
+- ✅ [Typing-->](keybr.com)  
