@@ -70,3 +70,4 @@
 ## April 10 ##
 >**Tasks**
 - ✅ [Typing-->](keybr.com)  
+- ✅ Solved SQL,java problem in skillrack.
