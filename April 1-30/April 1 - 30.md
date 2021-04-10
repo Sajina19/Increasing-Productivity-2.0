@@ -71,3 +71,4 @@
 >**Tasks**
 - ✅ [Typing-->](keybr.com)  
 - ✅ Solved SQL,java problem in skillrack.
+- ✅ Played daily workout in Lumosity.
