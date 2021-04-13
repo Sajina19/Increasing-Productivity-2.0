@@ -85,3 +85,10 @@
 - ✅ Played daily workout in Lumosity.
 - ✅ Solved java problems in skillrack.
 - ✅ Completed basics of SQL in skillrack.
+
+## April 13 ##
+>**Tasks**
+- ✅ [Typing-->](keybr.com)  
+- ✅ Played daily workout in Lumosity.
+- ✅ Solved java problems in skillrack.
+- ✅ Completed daily challenge in skillrack.
