@@ -56,16 +56,16 @@
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played daily workout in Lumosity.
 - ✅SQL topics covered
-       1.And,or,not
-       2.Order by
-       3.Insert into 
-       4.Null values
-       5.Update
-       6.Delete
-       7.Select Top
-       8.Min and Max
-       9.Count,Avg,Sum
-       10.Like
+     -  1.And,or,not
+     -  2.Order by
+     -  3.Insert into 
+     -  4.Null values
+     -  5.Update
+     -  6.Delete
+     -  7.Select Top
+     -  8.Min and Max
+     -  9.Count,Avg,Sum
+     -  10.Like
 
 ## April 10 ##
 >**Tasks**
