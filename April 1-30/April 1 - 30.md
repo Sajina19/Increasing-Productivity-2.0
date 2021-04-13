@@ -92,3 +92,5 @@
 - ✅ Played daily workout in Lumosity.
 - ✅ Solved java problems in skillrack.
 - ✅ Completed daily challenge in skillrack.
+- ✅ Java
+      1.Why to learn Java programming.
