@@ -94,3 +94,14 @@
 - ✅ Completed daily challenge in skillrack.
 - ✅ Java
     - 1.Why to learn Java programming.
+
+
+## April 14 ##
+>**Tasks**
+- ✅ [Typing-->](keybr.com)  
+- ✅ Played daily workout in Lumosity.
+- ✅ Solved java problems in skillrack.
+- ✅ Completed daily challenge in skillrack.
+  ✅ Attended bootcamp for python and data visualisation(https://youtu.be/eaoPm475Jts).
+- ✅ Java
+    - 1.Why to learn Java programming.    
