@@ -104,4 +104,4 @@
 - ✅ Completed daily challenge in skillrack.
 - ✅ Attended bootcamp for python and data visualisation(https://youtu.be/eaoPm475Jts).
 - ✅ Java
-    - 1.Why to learn Java programming.    
+    - Environmental setup
