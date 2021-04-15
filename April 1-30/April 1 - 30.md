@@ -102,7 +102,7 @@
 - ✅ Played daily workout in Lumosity.
 - ✅ Solved java problems in skillrack.
 - ✅ Completed daily challenge in skillrack.
-- ✅ Attended bootcamp for python and data visualisation(https://youtu.be/eaoPm475Jts).
+- ✅ Attended bootcamp on python and data visualisation(https://youtu.be/eaoPm475Jts).
 - ✅ Java
     - Environmental setup
 
@@ -111,7 +111,7 @@
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played daily workout in Lumosity.
 - ✅ Solved a java problem in skillrack.
-- ✅ Attended bootcamp for python and data visualisation(https://youtu.be/eOp1UgQUXII).
+- ✅ Attended bootcamp on python and data visualisation(https://youtu.be/eOp1UgQUXII).
 - ✅ Java
     - Basic syntax
 - ✅ Read 5 pages in the book,The Monk sold his Ferrari.
