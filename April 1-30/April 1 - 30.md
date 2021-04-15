@@ -106,7 +106,7 @@
 - ✅ Java
     - Environmental setup
 
-## April 14 ##
+## April 15 ##
 >**Tasks**
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played daily workout in Lumosity.
