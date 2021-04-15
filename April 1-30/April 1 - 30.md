@@ -113,5 +113,5 @@
 - ✅ Solved a java problem in skillrack.
 - ✅ Attended bootcamp for python and data visualisation(https://youtu.be/eOp1UgQUXII).
 - ✅ Java
-    - Environmental setup
+    - Basic syntax
 - ✅ Read 5 pages in the book,The Monk sold his Ferrari.
