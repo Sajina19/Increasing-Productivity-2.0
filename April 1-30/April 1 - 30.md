@@ -115,3 +115,8 @@
 - ✅ Java
     - Basic syntax
 - ✅ Read 5 pages in the book,The Monk sold his Ferrari.
+
+## April 16 ##
+>**Tasks**
+- ✅ [Typing-->](keybr.com)  
+- ✅ Played daily workout in Lumosity.
