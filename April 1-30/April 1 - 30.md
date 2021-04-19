@@ -126,10 +126,18 @@
 >**Tasks**
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played daily workout in Lumosity.
-- ✅ Attended bootcamp on python and data visualisation(https://youtu.be/nBDK3YYbNq8)).
+- ✅ Attended bootcamp on python and data visualisation(https://youtu.be/nBDK3YYbNq8).
 
 
 ## April 18 ##
 >**Tasks**
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played daily workout in Lumosity.
+- ✅ Attended bootcamp on python and data visualisation(https://youtu.be/msVkNbakpx8).
+
+
+## April 19 ##
+>**Tasks**
+- ✅ [Typing-->](keybr.com)  
+- ✅ Played daily workout in Lumosity.
+- ✅ Attended bootcamp on python and data visualisation(https://www.youtube.com/watch?v=mCv4Pll3MYY).
