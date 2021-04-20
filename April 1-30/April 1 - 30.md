@@ -141,3 +141,12 @@
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played daily workout in Lumosity.
 - ✅ Attended bootcamp on python and data visualisation(https://www.youtube.com/watch?v=mCv4Pll3MYY).
+
+
+## April 20 ##
+>**Tasks**
+- ✅ [Typing-->](keybr.com)  
+- ✅ Played daily workout in Lumosity.
+- ✅ Java
+    - Classes and object
+- ✅ Solved java problems in skillrack.
