@@ -158,3 +158,8 @@
 - ✅ Java
     - Constructors
 - ✅ Solved java problems in skillrack.
+
+## April 22 ##
+>**Tasks**
+- ✅ [Typing-->](keybr.com)  
+- ✅ Played daily workout in Lumosity.
