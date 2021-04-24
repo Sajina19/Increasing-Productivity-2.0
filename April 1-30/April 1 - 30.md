@@ -168,3 +168,11 @@
 >**Tasks**
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played daily workout in Lumosity.
+- ✅ Machine learning
+     - Simple introduction to machine learning.
+
+## April 24 ##
+>**Tasks**
+- ✅ [Typing-->](keybr.com)  
+- ✅ Played daily workout in Lumosity.
+- ✅ Solved java problems in skillrack
