@@ -196,3 +196,9 @@
 >**Tasks**
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played daily workout in Lumosity.
+
+## April 29 ##
+>**Tasks**
+- ✅ [Typing-->](keybr.com)  
+- ✅ Played daily workout in Lumosity.
+- ✅ Machine learning
