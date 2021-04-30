@@ -214,3 +214,4 @@
      - Solved python problems - Python starter
      - Solved java problems
 - ✅ Completed reading the book - The Monk who sold his Ferrari     
+- ✅ [Solved logic puzzle](https://logic.puzzlebaron.com/).
