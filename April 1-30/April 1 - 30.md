@@ -204,6 +204,7 @@
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played daily workout in Lumosity.
 - ✅ Machine learning
+- ✅ Read half of chapter 13 in the book - The Monk who sold his Ferrari
 
 ## April 30 ##
 >**Tasks**
@@ -211,3 +212,5 @@
 - ✅ Played daily workout in Lumosity.
 - ✅ Skill rack
      - Solved python problems - Python starter
+     - Solved java problems
+- ✅ Completed reading the book - The Monk who sold his Ferrari     
