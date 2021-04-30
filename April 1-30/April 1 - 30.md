@@ -187,6 +187,8 @@
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played daily workout in Lumosity.
 
+### Semester exam starts today - April 27 ###
+
 ## April 27 ##
 >**Tasks**
 - ✅ [Typing-->](keybr.com)  
@@ -202,3 +204,10 @@
 - ✅ [Typing-->](keybr.com)  
 - ✅ Played daily workout in Lumosity.
 - ✅ Machine learning
+
+## April 30 ##
+>**Tasks**
+- ✅ [Typing-->](keybr.com)  
+- ✅ Played daily workout in Lumosity.
+- ✅ Skill rack
+     - Solved python problems - Python starter
