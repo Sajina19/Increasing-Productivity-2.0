@@ -3,6 +3,7 @@
 ### Coding ###
 - 📈 Skill rack
      - Solved a problem in C,python and java.
+- 📈 [Solved a problem in Hacerrank](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true)
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Chess](chess.com) 
