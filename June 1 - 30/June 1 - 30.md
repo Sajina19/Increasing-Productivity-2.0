@@ -10,3 +10,5 @@
 - 📈[Solved a logic puzzle](puzzle.baron.com)
 ### Video ###
 - 📈[Gravitas Plus: Humans can live up to 150 years](https://www.youtube.com/watch?v=0m3fcfLfDsM)
+### Blog ###
+- 📈[25 little things that make you happy at work](https://gethppy.com/workplace-happiness/25-little-things-that-make-you-happy-at-work)
