@@ -26,7 +26,6 @@
      - Solved a problem in C and python.
 - 📈[Solved a problem in Hacerrank](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)
 - 📈Python programming
-
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Chess](chess.com) 
