@@ -18,3 +18,11 @@
 - 📈 [Typing](keybr.com) 
 ### Aptitude ###
 - 📈 Solved 10 questions(Aptitude ~ Numbers)
+
+## June 2 ##
+> **Tasks**
+### Coding ###
+- 📈 Skill rack
+     - Solved a problem in C and python.
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
