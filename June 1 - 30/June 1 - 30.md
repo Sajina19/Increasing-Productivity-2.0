@@ -24,5 +24,15 @@
 ### Coding ###
 - 📈 Skill rack
      - Solved a problem in C and python.
+- 📈[Solved a problem in Hacerrank](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)
+- 📈Python programming
+
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com) 
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
+### Video ###
+- 📈[Gravitas: Nestle's long-list of unhealthy food products](https://www.youtube.com/watch?v=z-xsm3i8QJU)
+### Blog ###
+- 📈[Lessons from 2021](https://krishamehta.home.blog/2020/12/31/lessons-from-2020/)
