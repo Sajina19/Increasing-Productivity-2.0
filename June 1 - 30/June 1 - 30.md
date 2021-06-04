@@ -55,4 +55,16 @@
 ### Blog ###
 - 📈[Mental health - Your top most priority](https://krishamehta.home.blog/2020/08/25/mental-health-your-topmost-priority/)
 ### Others ###
-- 📈 [Typing](keybr.com) 
+- 📈 [Typing](keybr.com)
+
+
+## June 4 ##
+> **Tasks**
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com) 
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
+### Video ###
+- 📈[Gravitas Plus:Is whatsapp tricking users into consent?](https://www.youtube.com/watch?v=LTGobc7ypTo)
+
