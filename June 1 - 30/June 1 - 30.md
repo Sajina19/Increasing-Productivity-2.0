@@ -65,6 +65,12 @@
 - 📈[Chess](chess.com) 
 - 📈Completed daily challenge in Elevate
 - 📈[Solved a logic puzzle](puzzle.baron.com)
+### Learning new Languages ###
+- 📈 Malayalam | Day 2
+- 📈 French | Day 2
 ### Video ###
 - 📈[Gravitas Plus:Is whatsapp tricking users into consent?](https://www.youtube.com/watch?v=LTGobc7ypTo)
-
+### Blog ###
+- 📈[Breaking the rule made me a more confident writer](https://medium.com/creators-hub/breaking-this-rule-made-me-a-more-confident-writer-3d53fe8913e4)
+### Others ###
+- 📈 [Typing](keybr.com)
