@@ -60,6 +60,10 @@
 
 ## June 4 ##
 > **Tasks**
+### Coding ###
+- 📈 Skill rack
+     - Solved a problem in C,Python and Java.
+- 📈 Solved a problem in Hacerrank.
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Chess](chess.com) 
