@@ -79,3 +79,17 @@
 - 📈[Breaking the rule made me a more confident writer](https://medium.com/creators-hub/breaking-this-rule-made-me-a-more-confident-writer-3d53fe8913e4)
 ### Others ###
 - 📈 [Typing](keybr.com)
+
+## June 5 ##
+> **Tasks**
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com) 
+### Learning new Languages ###
+- 📈 French | Day 3
+### Video ###
+- 📈[Gravitas Plus:Invisible arts sells for $18000](https://www.youtube.com/watch?v=vxsLdl4ay-g)
+### Blog ###
+- 📈[Why some people are cruel to others](https://www.bbc.com/future/article/20201016-why-some-people-are-cruel-to-others)
+### Others ###
+- 📈 [Typing](keybr.com)
