@@ -84,9 +84,12 @@
 > **Tasks**
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
-- 📈[Chess](chess.com) 
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com) 
 ### Learning new Languages ###
 - 📈 French | Day 3
+- 📈 Malayalam | Day 3
 ### Video ###
 - 📈[Gravitas Plus:Invisible arts sells for $18000](https://www.youtube.com/watch?v=vxsLdl4ay-g)
 ### Blog ###
