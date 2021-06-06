@@ -96,3 +96,13 @@
 - 📈[Why some people are cruel to others](https://www.bbc.com/future/article/20201016-why-some-people-are-cruel-to-others)
 ### Others ###
 - 📈 [Typing](keybr.com)
+
+## June 6 ##
+> **Tasks**
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com) 
+### Others ###
+- 📈 [Typing](keybr.com)
