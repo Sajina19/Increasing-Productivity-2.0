@@ -111,6 +111,8 @@
 ## June 7 ##
 > **Tasks**
 ### Coding ###
+- 📈 Skill rack
+     - Solved a problem in C,python and Java.
 - 📈 [Solved a problem in Hacerrank on split and join in python](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true)
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
