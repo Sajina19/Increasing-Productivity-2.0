@@ -106,3 +106,20 @@
 - 📈[Solved a logic puzzle](puzzle.baron.com) 
 ### Others ###
 - 📈 [Typing](keybr.com)
+
+
+## June 7 ##
+> **Tasks**
+### Coding ###
+- 📈 [Solved a problem in Hacerrank on split and join in python](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true)
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
+### Video ###
+- 📈[Gravitas Plus: The Secret to Happiness](https://www.youtube.com/watch?v=wkZ7Dh2DfbI)
+### Blog ###
+- 📈[3 Irresistible Advantages of Using Voice-to-Text for Writing Stories](https://medium.com/creators-hub/3-irresistible-advantages-of-using-voice-to-text-for-writing-stories-7a10536dec7c)
+### Others ###
+- 📈 [Typing](keybr.com) 
