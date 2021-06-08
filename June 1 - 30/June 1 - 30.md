@@ -125,3 +125,18 @@
 - 📈[3 Irresistible Advantages of Using Voice-to-Text for Writing Stories](https://medium.com/creators-hub/3-irresistible-advantages-of-using-voice-to-text-for-writing-stories-7a10536dec7c)
 ### Others ###
 - 📈 [Typing](keybr.com) 
+
+
+## June 8 ##
+> **Tasks**
+### Coding ###
+- 📈 [Solved a problem in Hacerrank](https://www.hackerrank.com/challenges/whats-your-name/problem)
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
+### Video ###
+- 📈[Gravitas : Saudi Arabia restricts loudspeakers at mosques](https://www.youtube.com/watch?v=OvcHrCjdaWk)
+### Others ###
+- 📈 [Typing](keybr.com)
