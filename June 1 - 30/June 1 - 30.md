@@ -134,6 +134,7 @@
 - 📈 Skill rack
      - Solved a problem in C,python and Java..
 - 📈 [Solved a problem in Hacerrank](https://www.hackerrank.com/challenges/whats-your-name/problem)
+- 📈 Python programming
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Chess](chess.com)
