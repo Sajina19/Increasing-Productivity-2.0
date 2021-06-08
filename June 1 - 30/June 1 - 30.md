@@ -114,6 +114,7 @@
 - 📈 Skill rack
      - Solved a problem in C,python and Java.
 - 📈 [Solved a problem in Hacerrank on split and join in python](https://www.hackerrank.com/challenges/python-string-split-and-join/problem?isFullScreen=true)
+- 📈 Python programming
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Chess](chess.com)
@@ -138,5 +139,7 @@
 - 📈[Solved a logic puzzle](puzzle.baron.com)
 ### Video ###
 - 📈[Gravitas : Saudi Arabia restricts loudspeakers at mosques](https://www.youtube.com/watch?v=OvcHrCjdaWk)
+### Blog ###
+- 📈[SMBSTORY](https://yourstory.com/smbstory/gurgaon-d2c-brand-the-ayurveda-experience-global-market/amp)
 ### Others ###
 - 📈 [Typing](keybr.com)
