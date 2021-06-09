@@ -151,5 +151,16 @@
 
 ## June 9 ##
 > **Tasks**
+
+- 📈 [Solved a problem in Hacerrank on Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
 ### Video ###
 - 📈[Gravitas: Governments move to end Big Tech's free run](https://www.youtube.com/watch?v=8HCDs9NkMOo)
+### Blog ###
+- 📈[Failure is a stepping stone to success](https://krishamehta.home.blog/blog-feed/)
+### Others ###
+- 📈 [Typing](keybr.com)
