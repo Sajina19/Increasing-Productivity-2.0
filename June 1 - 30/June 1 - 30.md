@@ -153,6 +153,7 @@
 > **Tasks**
 - 📈 Skill rack
      - Solved a problem in Python.
+     - Solved daily challenge.
 - 📈 [Solved a problem in Hacerrank on Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
