@@ -132,7 +132,7 @@
 > **Tasks**
 ### Coding ###
 - 📈 Skill rack
-     - Solved a problem in C,python and Java..
+     - Solved a problem in C,python and Java.
 - 📈 [Solved a problem in Hacerrank](https://www.hackerrank.com/challenges/whats-your-name/problem)
 - 📈 Python programming
 ### Games ###
@@ -151,7 +151,8 @@
 
 ## June 9 ##
 > **Tasks**
-
+- 📈 Skill rack
+     - Solved a problem in Python.
 - 📈 [Solved a problem in Hacerrank on Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
