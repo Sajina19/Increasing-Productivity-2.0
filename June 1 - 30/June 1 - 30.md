@@ -146,3 +146,10 @@
 - 📈[SMBSTORY](https://yourstory.com/smbstory/gurgaon-d2c-brand-the-ayurveda-experience-global-market/amp)
 ### Others ###
 - 📈 [Typing](keybr.com)
+
+
+
+## June 9 ##
+> **Tasks**
+### Video ###
+- 📈[Gravitas: Governments move to end Big Tech's free run](https://www.youtube.com/watch?v=8HCDs9NkMOo)
