@@ -166,3 +166,13 @@
 - 📈[Failure is a stepping stone to success](https://krishamehta.home.blog/blog-feed/)
 ### Others ###
 - 📈 [Typing](keybr.com)
+
+## June 10 ##
+> **Tasks**
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
+### Video ###
+- 📈[Gravitas: Mahatma Gandhi great granddaughter sentenced to 7 years in jail](https://www.youtube.com/watch?v=rRs5426BOO0)
