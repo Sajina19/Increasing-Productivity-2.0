@@ -171,7 +171,7 @@
 ## June 10 ##
 > **Tasks**
 ### Coding ###
-- 📈 [Solved a problem in Hacerrank on Strings](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true)
+- 📈[Solved a problem in Hacerrank on Strings](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true)
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Chess](chess.com)
