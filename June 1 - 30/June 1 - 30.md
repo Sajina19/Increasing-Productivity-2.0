@@ -174,6 +174,8 @@
 - 📈 Skill rack
      - Solved a problem in C.
 - 📈[Solved a problem in Hacerrank on Strings](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true)
+- 📈 Python programming
+
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Chess](chess.com)
@@ -185,3 +187,5 @@
 - 📈[SMBSTORY](https://yourstory.com/smbstory/delhi-woman-entrepreneur-tjori-fashion-handicrafts-apparel-jewellery/amp)
 ### Others ###
 - 📈 [Typing](keybr.com)
+### Aptitude ###
+- 📈 Average
