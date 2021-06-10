@@ -151,6 +151,7 @@
 
 ## June 9 ##
 > **Tasks**
+### Coding ###
 - 📈 Skill rack
      - Solved a problem in Python.
      - Solved daily challenge.
@@ -169,6 +170,8 @@
 
 ## June 10 ##
 > **Tasks**
+### Coding ###
+- 📈 [Solved a problem in Hacerrank on Strings](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true)
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Chess](chess.com)
@@ -176,3 +179,7 @@
 - 📈[Solved a logic puzzle](puzzle.baron.com)
 ### Video ###
 - 📈[Gravitas: Mahatma Gandhi great granddaughter sentenced to 7 years in jail](https://www.youtube.com/watch?v=rRs5426BOO0)
+### Blog ###
+- 📈[SMBSTORY](https://yourstory.com/smbstory/delhi-woman-entrepreneur-tjori-fashion-handicrafts-apparel-jewellery/amp)
+### Others ###
+- 📈 [Typing](keybr.com)
