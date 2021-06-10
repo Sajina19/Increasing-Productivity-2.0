@@ -171,6 +171,8 @@
 ## June 10 ##
 > **Tasks**
 ### Coding ###
+- 📈 Skill rack
+     - Solved a problem in C.
 - 📈[Solved a problem in Hacerrank on Strings](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true)
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
