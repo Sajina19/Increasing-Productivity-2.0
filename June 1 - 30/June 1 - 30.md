@@ -209,3 +209,5 @@
 - 📈[Gravitas:The Gaming Industry](https://www.youtube.com/watch?v=DmJbnXV-VkE)
 ### Others ###
 - 📈 [Typing](keybr.com)
+### Aptitude ###
+- 📈 Ratio
