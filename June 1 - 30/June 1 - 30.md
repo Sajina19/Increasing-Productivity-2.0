@@ -175,7 +175,6 @@
      - Solved a problem in C.
 - 📈[Solved a problem in Hacerrank on Strings](https://www.hackerrank.com/challenges/find-a-string/problem?isFullScreen=true)
 - 📈 Python programming
-
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Chess](chess.com)
@@ -189,3 +188,24 @@
 - 📈 [Typing](keybr.com)
 ### Aptitude ###
 - 📈 Average
+
+## June 11 ##
+> **Tasks**
+### Coding ###
+- 📈 Skill rack
+     - Solved two problems in C.
+     - Solved a problem in python.
+- 📈[Solved a Java problem in Hacerrank](https://www.hackerrank.com/challenges/java-loops-i/problem)
+- 📈[Solved a problem in Hacerrank on String Validators](https://www.hackerrank.com/challenges/string-validators/problem)
+- 📈 Python programming
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
+### Blog ###
+- 📈[SMBSTORY](https://yourstory.com/smbstory/bengaluru-low-carb-snacks-biscuits-lo-foods-fmcg/amp)
+### Video ###
+- 📈[Gravitas:The Gaming Industry](https://www.youtube.com/watch?v=DmJbnXV-VkE)
+### Others ###
+- 📈 [Typing](keybr.com)
