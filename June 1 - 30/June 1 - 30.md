@@ -227,5 +227,7 @@
 - 📈[Solved a logic puzzle](puzzle.baron.com)
 ### Blog ###
 - 📈[HAPPINESS IS ELUSIVE UNLESS YOU KNOW THE TRICKS OF BEING JOLLY](https://westonjolly.com/how-to-be-jolly-every-holiday/)
+### Video ###
+- 📈[After US, EU, UK calls for probe into Covid origins | Matt Hancock | WHO | Latest English News](https://www.youtube.com/watch?v=0fzmgpySIi0)
 ### Others ###
 - 📈 [Typing](keybr.com)
