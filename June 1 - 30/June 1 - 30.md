@@ -218,3 +218,5 @@
 ### Coding ###
 - 📈 Skill rack
      - Solved ten problems in C.
+     - Solved a problem in python
+- 📈Solved a python problem in Hacerrank.
