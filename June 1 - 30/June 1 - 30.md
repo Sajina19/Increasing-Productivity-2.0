@@ -211,3 +211,10 @@
 - 📈 [Typing](keybr.com)
 ### Aptitude ###
 - 📈 Ratio
+
+
+## June 12 ##
+> **Tasks**
+### Coding ###
+- 📈 Skill rack
+     - Solved ten problems in C.
