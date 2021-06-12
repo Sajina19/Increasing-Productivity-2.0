@@ -220,3 +220,12 @@
      - Solved ten problems in C.
      - Solved a problem in python
 - 📈Solved a python problem in Hacerrank.
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
+### Blog ###
+- 📈[HAPPINESS IS ELUSIVE UNLESS YOU KNOW THE TRICKS OF BEING JOLLY](https://westonjolly.com/how-to-be-jolly-every-holiday/)
+### Others ###
+- 📈 [Typing](keybr.com)
