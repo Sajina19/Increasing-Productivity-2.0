@@ -231,3 +231,10 @@
 - 📈[After US, EU, UK calls for probe into Covid origins | Matt Hancock | WHO | Latest English News](https://www.youtube.com/watch?v=0fzmgpySIi0)
 ### Others ###
 - 📈 [Typing](keybr.com)
+
+
+## June 13 ##
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈 [Typing](keybr.com)
+- 📈 Python programming
+- 📈Completed daily challenge in Elevate
