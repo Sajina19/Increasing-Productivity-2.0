@@ -253,3 +253,4 @@
 - 📈[Solved a logic puzzle](puzzle.baron.com)
 ### Others ###
 - 📈 [Typing](keybr.com)
+- 📈 Android learning
