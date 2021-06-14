@@ -241,6 +241,9 @@
 ## June 14 ##
 > **Tasks**
 ### Coding ###
+- 📈 Skill rack
+     - Solved four problems in C.
+     - Solved a problem in java.    
 - 📈[Solved a python problem in Hacerrank on textwrap.](https://www.hackerrank.com/challenges/text-wrap/problem)
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
