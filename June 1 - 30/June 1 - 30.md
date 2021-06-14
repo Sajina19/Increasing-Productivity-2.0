@@ -245,6 +245,7 @@
      - Solved four problems in C.
      - Solved a problem in java.    
 - 📈[Solved a python problem in Hacerrank on textwrap.](https://www.hackerrank.com/challenges/text-wrap/problem)
+- 📈 Python programming
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Chess](chess.com)
