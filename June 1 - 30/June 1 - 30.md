@@ -232,9 +232,20 @@
 ### Others ###
 - 📈 [Typing](keybr.com)
 
-
 ## June 13 ##
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈 [Typing](keybr.com)
 - 📈 Python programming
 - 📈Completed daily challenge in Elevate
+
+## June 14 ##
+> **Tasks**
+### Coding ###
+- 📈[Solved a python problem in Hacerrank on textwrap.](https://www.hackerrank.com/challenges/text-wrap/problem)
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
+### Others ###
+- 📈 [Typing](keybr.com)
