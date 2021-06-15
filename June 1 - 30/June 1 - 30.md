@@ -269,5 +269,7 @@
 - 📈[Solved a logic puzzle](puzzle.baron.com)
 ### Video ###
 - 📈[Bats locked inside the wuhan lab](https://youtu.be/LFdGkAFvW2U) 
+### Blog ###
+- 📈[Blog](https://daddyoda.com/a-day-in-my-life/)
 ### Others ###
 - 📈 [Typing](keybr.com)
