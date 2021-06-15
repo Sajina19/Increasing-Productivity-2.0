@@ -254,3 +254,18 @@
 ### Others ###
 - 📈 [Typing](keybr.com)
 - 📈 Android learning
+
+## June 15 ##
+> **Tasks**
+### Coding ###
+- 📈 Skill rack
+     - Solved three problems in C.
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
+### Video ###
+- 📈[Bats locked inside the wuhan lab](https://youtu.be/LFdGkAFvW2U) 
+### Others ###
+- 📈 [Typing](keybr.com)
