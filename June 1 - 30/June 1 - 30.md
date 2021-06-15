@@ -261,6 +261,7 @@
 - 📈 Skill rack
      - Solved three problems in C.
      - Solved a problem in java.  
+- 📈Solved a python problem in Hacerrank 
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Chess](chess.com)
