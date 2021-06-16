@@ -273,3 +273,13 @@
 - 📈[Blog](https://daddyoda.com/a-day-in-my-life/)
 ### Others ###
 - 📈 [Typing](keybr.com)
+- 📈 Aptitude
+
+## June 16 ##
+> **Tasks**
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
+### Others ###
+- 📈 [Typing](keybr.com)
