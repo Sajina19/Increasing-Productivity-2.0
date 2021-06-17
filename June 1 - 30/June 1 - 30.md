@@ -283,3 +283,15 @@
 - 📈[Solved a logic puzzle](puzzle.baron.com)
 ### Others ###
 - 📈 [Typing](keybr.com)
+
+## June 17 ##
+> **Tasks**
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
+### Blog ###
+- 📈[Blog](https://daddyoda.com/a-day-in-my-life/))
+### Video ###
+- 📈[Gravitas: Will Sweden & The Netherlands become Muslim nations?](https://www.youtube.com/watch?v=LwKqItWcP4E)) 
