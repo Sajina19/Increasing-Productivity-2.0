@@ -299,4 +299,6 @@
 ### Blog ###
 - 📈[Blog](https://daddyoda.com/a-day-in-my-life/))
 ### Video ###
-- 📈[Gravitas: Will Sweden & The Netherlands become Muslim nations?](https://www.youtube.com/watch?v=LwKqItWcP4E)) 
+- 📈[Gravitas: Will Sweden & The Netherlands become Muslim nations?](https://www.youtube.com/watch?v=LwKqItWcP4E)
+### Others ###
+- 📈 [Typing](keybr.com)
