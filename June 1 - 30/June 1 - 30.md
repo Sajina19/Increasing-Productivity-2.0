@@ -302,3 +302,4 @@
 - 📈[Gravitas: Will Sweden & The Netherlands become Muslim nations?](https://www.youtube.com/watch?v=LwKqItWcP4E)
 ### Others ###
 - 📈 [Typing](keybr.com)
+- 📈 [Aptitude](https://www.faceprep.in/prograd/FACE-prep-launchpad-2021/learning/5c69f0-L41LNu/)
