@@ -303,3 +303,19 @@
 ### Others ###
 - 📈 [Typing](keybr.com)
 - 📈 [Aptitude](https://www.faceprep.in/prograd/FACE-prep-launchpad-2021/learning/5c69f0-L41LNu/)
+
+
+## June 18 ##
+> **Tasks**
+### Coding ###
+- 📈 Skill rack
+     - Solved three problems in C.
+     - Solved a problem in java.
+     - Solved a problem in python 
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com) 
+### Others ###
+- 📈 [Typing](keybr.com)
