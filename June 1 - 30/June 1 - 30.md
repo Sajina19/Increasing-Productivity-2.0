@@ -312,6 +312,7 @@
      - Solved three problems in C.
      - Solved a problem in java.
      - Solved a problem in python 
+- 📈Solved a python problem in Hacerrank on string formating.
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Chess](chess.com)
