@@ -316,11 +316,10 @@
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Chess](chess.com)
-- 📈Completed daily challenge in Elevate
 - 📈[Solved a logic puzzle](puzzle.baron.com) 
 ### Others ###
 - 📈 [Typing](keybr.com)
-- 📈 [Aptitude]
+- 📈 Aptitude
 
 ## June 19 ##
 > **Tasks**
@@ -333,3 +332,4 @@
 - 📈Completed daily challenge in Elevate
 ### Others ###
 - 📈 [Typing](keybr.com)
+- 📈 Aptitude
