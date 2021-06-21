@@ -347,3 +347,5 @@
 - 📈[Chess](chess.com)
 - 📈Completed daily challenge in Elevate
 - 📈[Solved a logic puzzle](puzzle.baron.com)
+### Others ###
+- 📈[Typing](keybr.com)
