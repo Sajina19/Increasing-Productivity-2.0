@@ -334,9 +334,16 @@
 - 📈 [Typing](keybr.com)
 - 📈 Aptitude
 
-
 ## June 20 ##
 > **Tasks**
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈Completed daily challenge in Elevate
 - 📈[Typing](keybr.com)
+
+## June 21 ##
+> **Tasks**
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
