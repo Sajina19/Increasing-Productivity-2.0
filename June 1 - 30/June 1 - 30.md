@@ -347,5 +347,7 @@
 - 📈[Chess](chess.com)
 - 📈Completed daily challenge in Elevate
 - 📈[Solved a logic puzzle](puzzle.baron.com)
+### Video ###
+- 📈[Gravitas: Pakistan's Donkey population is surging](https://www.youtube.com/watch?v=_fH_pyYGj9A)
 ### Others ###
 - 📈[Typing](keybr.com)
