@@ -363,6 +363,10 @@
 ## June 22 ##
 > **Tasks**
 ### Coding ###
+- 📈 Skill rack
+     - Solved two problems in C.
+     - Solved a problem in java.
+     - Solved a problem in python 
 - 📈Python programming
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
