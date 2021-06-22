@@ -358,3 +358,20 @@
 - 📈[Blog](https://daddyoda.com/key-to-life/)
 ### Others ###
 - 📈[Typing](keybr.com)
+
+
+## June 22 ##
+> **Tasks**
+### Coding ###
+- 📈Python programming
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
+### Video ###
+- 📈[Gravitas: Christian Eriksen and the importance of a healthy heart](https://www.youtube.com/watch?v=FurIOe0J1SE)
+### Blog ###
+- 📈[Positive energy](https://www.bustle.com/p/13-tried-true-ways-to-give-off-more-positive-energy-that-people-can-actually-sense-74267)
+### Others ###
+- 📈[Typing](keybr.com)
