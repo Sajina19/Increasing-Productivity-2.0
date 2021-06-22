@@ -364,7 +364,7 @@
 > **Tasks**
 ### Coding ###
 - 📈 Skill rack
-     - Solved two problems in C.
+     - Solved a problem in C.
      - Solved a problem in java.
      - Solved a problem in python 
 - 📈Python programming
