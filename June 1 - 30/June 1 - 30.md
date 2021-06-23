@@ -379,3 +379,11 @@
 - 📈[Positive energy](https://www.bustle.com/p/13-tried-true-ways-to-give-off-more-positive-energy-that-people-can-actually-sense-74267)
 ### Others ###
 - 📈[Typing](keybr.com)
+
+
+## June 23 ##
+> **Tasks**
+### Coding ###
+- 📈 Skill rack
+     - Solved 5 problems in C.
+     - Solved a problem in python 
