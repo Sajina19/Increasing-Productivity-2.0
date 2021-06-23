@@ -392,3 +392,4 @@
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard) 
 ### Others ###
 - 📈[Typing](keybr.com)
+- 📈 Aptitude
