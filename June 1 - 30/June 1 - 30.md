@@ -386,4 +386,8 @@
 ### Coding ###
 - 📈 Skill rack
      - Solved 5 problems in C.
-     - Solved a problem in python 
+     - Solved a problem in python
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard) 
+### Others ###
+- 📈[Typing](keybr.com)
