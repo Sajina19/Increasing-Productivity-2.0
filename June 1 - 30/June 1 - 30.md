@@ -407,3 +407,4 @@
 - 📈Completed daily challenge in Elevate
 ### Others ###
 - 📈[Typing](keybr.com)
+- 📈[Created a polling application using html,css.]
