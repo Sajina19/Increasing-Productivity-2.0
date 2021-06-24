@@ -394,3 +394,11 @@
 ### Others ###
 - 📈[Typing](keybr.com)
 - 📈 Aptitude
+
+
+## June 24 ##
+> **Tasks**
+### Coding ###
+- 📈 Skill rack
+     - Solved 5 problems in C.
+     - Solved a problem in python
