@@ -408,3 +408,20 @@
 ### Others ###
 - 📈[Typing](keybr.com)
 - 📈[Created a polling application using html,css.](https://github.com/Sajina19/Poll)
+
+
+## June 25 ##
+> **Tasks**
+### Coding ###
+- 📈 Skill rack
+     - Solved 5 problems in C.
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Chess](chess.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Solved a logic puzzle](puzzle.baron.com)
+### Videos ###
+- 📈 Software architecture
+- 📈 Product design
+### Others ###
+- 📈[Typing](keybr.com)
