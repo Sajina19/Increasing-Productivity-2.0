@@ -425,3 +425,4 @@
 - 📈 Product design
 ### Others ###
 - 📈[Typing](keybr.com)
+- 📈 JS
