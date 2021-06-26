@@ -430,6 +430,8 @@
 
 ## June 26 ##
 > **Tasks**
+### Coding ###
+- 📈 Solved two problems in leet code.
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Chess](chess.com)
