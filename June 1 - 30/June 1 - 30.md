@@ -428,7 +428,7 @@
 - 📈 JS
 
 
-## June 25 ##
+## June 26 ##
 > **Tasks**
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
