@@ -449,3 +449,8 @@
 > **Tasks**
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈[Typing](keybr.com)
+- 📈Completed daily challenge in Elevate
+- 📈[Created an animation using html and css.](https://github.com/Sajina19/Animation)
+### Videos ###
+- 📈 Software architecture
+- 📈 Product design
