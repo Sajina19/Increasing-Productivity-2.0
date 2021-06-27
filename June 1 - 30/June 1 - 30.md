@@ -444,3 +444,8 @@
 - 📈[Typing](keybr.com)
 - 📈 JS
 - 📈[Search box using Html,Css](https://github.com/Sajina19/SearchBox)
+
+## June 27 ##
+> **Tasks**
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈[Typing](keybr.com)
