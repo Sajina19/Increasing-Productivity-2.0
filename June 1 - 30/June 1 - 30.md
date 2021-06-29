@@ -478,6 +478,10 @@
 
 ## June 29 ##
 > **Tasks**
+### Coding ###
+- 📈 Skill rack
+     - Solved a problem in C++.
+     - Solved two problems in C.
 ### Videos ###
 - 📈 AI
 - 📈 Product design
