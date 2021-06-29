@@ -474,3 +474,15 @@
 - 📈JS
 - 📈Aptitude
 - 📈[3D-Image Effect using HTML and CSS](https://sajina19.github.io/3D-ImageEffect/)
+
+
+## June 29 ##
+> **Tasks**
+### Videos ###
+- 📈 AI
+- 📈 Product design
+- 📈 Pointers
+### Others ###
+- 📈[Typing](keybr.com)
+- 📈JS
+- 📈Aptitude
