@@ -482,6 +482,7 @@
 - 📈 Skill rack
      - Solved a problem in C++.
      - Solved two problems in C.
+- 📈 Solved problems of C++ in sololearn.   
 ### Videos ###
 - 📈 AI
 - 📈 Product design
