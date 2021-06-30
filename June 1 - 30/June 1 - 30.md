@@ -488,7 +488,23 @@
 - 📈 Product design
 - 📈 Pointers
 ### Games ###
-- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+### Others ###
+- 📈[Typing](keybr.com)
+- 📈JS
+- 📈Aptitude
+
+
+## June 30 ##
+> **Tasks**
+### Coding ###
+- 📈 Skill rack
+     - Solved  problems in C++.
+- 📈 Practised problems of C++ in sololearn.
+### Videos ###
+- 📈 AI
+- 📈 Product design
+### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 ### Others ###
 - 📈[Typing](keybr.com)
