@@ -1,4 +1,4 @@
-## June 28 ##
+## July 1 ##
 > **Tasks**
 ### Coding ###
 - 📈 Skill rack
