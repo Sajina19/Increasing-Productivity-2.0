@@ -4,7 +4,8 @@
 - 📈 Skill rack
      - Solved a problem in Java.
      - Solved a problem in python
-     - Solved three problems in C
+     - Solved three problems in C.
+- 📈 Practised problems of C++ in sololearn.
 ### Games ###
 - 📈Completed daily challenge in Elevate
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
