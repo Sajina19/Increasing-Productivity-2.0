@@ -35,3 +35,4 @@
 - 📈Aptitude
      - Solved 10 questions in number system.
      - Watched video on Sets and probability.
+     - [Learnt formulas of train problems](https://www.indiabix.com/aptitude/problems-on-trains/formulas)
