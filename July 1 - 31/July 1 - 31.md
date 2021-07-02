@@ -36,6 +36,7 @@
 - 📈 Pointers
 - 📈 Java programming
 ### Others ###
+- 📈[Typing](keybr.com)
 - 📈Learnt JS
 - 📈Aptitude
      - Solved 10 questions in number system.
