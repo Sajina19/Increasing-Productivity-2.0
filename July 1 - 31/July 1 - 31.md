@@ -22,6 +22,11 @@
 
 ## July 2 ##
 > **Tasks**
+### Coding ###
+- 📈 Skill rack
+     - Solved a basic problem in Java.
+     - Solved a problem in python
+     - Solved a basic problem in C++.
 ### Games ###
 - 📈Completed daily challenge in Elevate
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
