@@ -17,3 +17,21 @@
 - 📈[Typing](keybr.com)
 - 📈JS
 - 📈Aptitude
+
+
+
+## July 1 ##
+> **Tasks**
+### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+### Videos ###
+- 📈 AI
+- 📈 Product design
+- 📈 Pointers
+- 📈 Java programming
+### Others ###
+- 📈Learnt JS
+- 📈Aptitude
+     - Solved 10 questions in number system.
+     - Watched video on Sets and probability.
