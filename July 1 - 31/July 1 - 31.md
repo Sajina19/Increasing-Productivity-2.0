@@ -20,7 +20,7 @@
 
 
 
-## July 1 ##
+## July 2 ##
 > **Tasks**
 ### Games ###
 - 📈Completed daily challenge in Elevate
