@@ -44,12 +44,15 @@
      - [Learnt formulas of train problems](https://www.indiabix.com/aptitude/problems-on-trains/formulas)
 
 ## July 3 ##
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 ### Videos ###
 - 📈 AI
 - 📈 Product design
 - 📈 Pointers
 - 📈 Java programming
 ### Others ###
+- 📈[Typing](keybr.com)
 - 📈Learnt JS
 - 📈Learnt Grammar concepts.
 - 📈Aptitude
