@@ -51,7 +51,8 @@
 - 📈 Java programming
 ### Others ###
 - 📈Learnt JS
-- 📈Learnt Grammar concept.
+- 📈Learnt Grammar concepts.
 - 📈Aptitude
      - Solved 10 questions in Aligation,Averages and Mixtures.
      - Watched video on Speed and distance.
+     - [Solved 5 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/)
