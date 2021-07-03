@@ -42,3 +42,16 @@
      - Solved 10 questions in number system.
      - Watched video on Sets and probability.
      - [Learnt formulas of train problems](https://www.indiabix.com/aptitude/problems-on-trains/formulas)
+
+## July 3 ##
+### Videos ###
+- 📈 AI
+- 📈 Product design
+- 📈 Pointers
+- 📈 Java programming
+### Others ###
+- 📈Learnt JS
+- 📈Learnt Grammar concept.
+- 📈Aptitude
+     - Solved 10 questions in Aligation,Averages and Mixtures.
+     - Watched video on Speed and distance.
