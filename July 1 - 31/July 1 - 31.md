@@ -44,6 +44,7 @@
      - [Learnt formulas of train problems](https://www.indiabix.com/aptitude/problems-on-trains/formulas)
 
 ## July 3 ##
+> **Tasks**
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 ### Videos ###
@@ -59,3 +60,8 @@
      - Solved 10 questions in Aligation,Averages and Mixtures.
      - Watched video on Speed and distance.
      - [Solved 5 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/)
+
+## July 4 ##
+> **Tasks**
+- 📈[Typing](keybr.com)
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)s
