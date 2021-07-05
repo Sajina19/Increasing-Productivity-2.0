@@ -72,6 +72,7 @@
 ### Coding ###
 - 📈 Skill rack
      - Solved three problems in C.
+     - [Solved a problem in java hackerank.](https://www.hackerrank.com/challenges/java-loops/problem?isFullScreen=true)
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈 Completed daily workout in Elevate.
