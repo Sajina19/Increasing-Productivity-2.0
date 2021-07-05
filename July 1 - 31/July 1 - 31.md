@@ -69,14 +69,18 @@
 
 ## July 5 ##
 > **Tasks**
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈 Completed daily workout in Elevate.
 ### Videos ###
 - 📈 AI
 - 📈 Product design
 - 📈 Pointers
 - 📈 Java programming
 ### Others ###
+- 📈[Typing](keybr.com)
 - 📈Learnt JS
-- 📈Learnt verbal topics
+- 📈Learnt a verbal topic
 - 📈Aptitude
      - Solved 10 questions in Aligation, Averages and Mixtures.
      - Watched video on Speed, Permutations and distance.    
