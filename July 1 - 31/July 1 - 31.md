@@ -64,4 +64,21 @@
 ## July 4 ##
 > **Tasks**
 - 📈[Typing](keybr.com)
-- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)s
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+
+
+## July 5 ##
+> **Tasks**
+### Videos ###
+- 📈 AI
+- 📈 Product design
+- 📈 Pointers
+- 📈 Java programming
+### Others ###
+- 📈Learnt JS
+- 📈Learnt verbal topics
+- 📈Aptitude
+    - Solved 10 questions in Aligation, Averages and Mixtures.
+     - Watched video on Speed, Permutations and distance.
+
+
