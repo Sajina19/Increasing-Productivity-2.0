@@ -78,7 +78,8 @@
 - 📈Learnt JS
 - 📈Learnt verbal topics
 - 📈Aptitude
-    - Solved 10 questions in Aligation, Averages and Mixtures.
-     - Watched video on Speed, Permutations and distance.
+     - Solved 10 questions in Aligation, Averages and Mixtures.
+     - Watched video on Speed, Permutations and distance.    
+     - [Solved 5 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/038002)
 
 
