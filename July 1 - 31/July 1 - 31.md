@@ -93,6 +93,9 @@
 
 ## July 5 ##
 > **Tasks**
+### Coding ###
+- 📈 Skill rack
+     - Solved three problems in C.
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 ### Videos ###
