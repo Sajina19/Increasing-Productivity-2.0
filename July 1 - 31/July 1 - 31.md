@@ -119,5 +119,6 @@
 - 📈Learnt a verbal topic
 - 📈Aptitude
      - Watched video on Combinations and Permutations.
+     - [Solved 5 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/038003)    
 
 
