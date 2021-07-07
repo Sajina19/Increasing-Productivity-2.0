@@ -91,4 +91,33 @@
      - Watched video on Speed, Permutations and distance.    
      - [Solved 5 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/038002)
 
+## July 5 ##
+> **Tasks**
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+### Videos ###
+- 📈 Product design
+- 📈 Java programming
+- 📈 Pointers
+### Others ###
+- 📈Learnt JS
+- 📈[Typing](keybr.com)
+
+## July 7 ##
+> **Tasks**
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈 Completed daily workout in Elevate.
+### Videos ###
+- 📈 AI
+- 📈 Product design
+- 📈 Pointers
+- 📈 Java programming
+### Others ###
+- 📈[Typing](keybr.com)
+- 📈Learnt JS
+- 📈Learnt a verbal topic
+- 📈Aptitude
+     - Watched video on Combinations and Permutations.
+
 
