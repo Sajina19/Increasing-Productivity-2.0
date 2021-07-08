@@ -121,6 +121,7 @@
 - 📈Learnt JS
 - 📈Learnt a verbal topic
 - 📈Aptitude
+
      - Watched video on Combinations and Permutations.
      - [Solved 5 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/038003)    
 
@@ -139,6 +140,9 @@
 - 📈 Java programming
 ### Others ###
 - 📈[Typing](keybr.com)
+- 📈Learnt a verbal topic
 - 📈Aptitude
+     - Solved 10 questions in Perumations and Combinations.
      - Watched Permutations - part 4 video.
+     - [Solved 5 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/038004)
 
