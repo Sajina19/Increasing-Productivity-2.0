@@ -140,4 +140,5 @@
 ### Others ###
 - 📈[Typing](keybr.com)
 - 📈Aptitude
+     - Watched Permutations - part 4 video.
 
