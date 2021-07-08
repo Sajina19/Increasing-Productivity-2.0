@@ -125,3 +125,19 @@
      - [Solved 5 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/038003)    
 
 
+
+## July 8 ##
+> **Tasks**
+### Programming ###
+- 📈Learnt JS
+- 📈Practised Java
+### Games ###
+- 📈 Completed daily workout in Elevate.
+### Videos ###
+- 📈 AI
+- 📈 Product design
+- 📈 Java programming
+### Others ###
+- 📈[Typing](keybr.com)
+- 📈Aptitude
+
