@@ -150,9 +150,16 @@
 ## July 9 ##
 > **Tasks**
 ### Programming ###
+- 📈 Skill rack
+     - Solved three problems in C.
 - 📈Learnt JS
 - 📈Practised Java
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈 Completed daily workout in Elevate.
 ### Videos ###
+- 📈 AI
+- 📈 Product design
 - 📈 Java programming
 ### Others ###
 - 📈Learnt a verbal topic
