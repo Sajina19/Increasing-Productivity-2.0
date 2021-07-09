@@ -144,6 +144,20 @@
 - 📈Learnt a verbal topic
 - 📈Aptitude
      - Solved 10 questions in Perumations and Combinations.
-     - Watched Permutations - part 4 video.
+     - Watched Permutations - part 5 video.
      - [Solved 5 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/038004)
+
+## July 9 ##
+> **Tasks**
+### Programming ###
+- 📈Learnt JS
+- 📈Practised Java
+### Videos ###
+- 📈 Java programming
+### Others ###
+- 📈Learnt a verbal topic
+- 📈Aptitude
+     - Solved 10 questions in Perumations and Combinations.
+     - Watched video on Profit and loss and Ages.
+     - [Solved 5 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/038005)
 
