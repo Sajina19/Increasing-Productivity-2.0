@@ -168,3 +168,11 @@
      - Watched video on Profit and loss and Ages.
      - [Solved 5 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/038005)
 
+
+## July 10 ##
+> **Tasks**
+### Programming ###
+- 📈Solved three problems in leet code.
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+
