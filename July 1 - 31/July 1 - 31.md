@@ -181,3 +181,6 @@
 
 ## July 11 ##
 > **Tasks**
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈 Completed daily workout in Elevate.
+- 📈[Typing](keybr.com)
