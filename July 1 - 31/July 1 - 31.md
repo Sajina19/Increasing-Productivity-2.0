@@ -173,6 +173,11 @@
 > **Tasks**
 ### Programming ###
 - 📈Solved three problems in leet code.
+- 📈Learnt JS
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈 Completed daily workout in Elevate.
 
+
+## July 11 ##
+> **Tasks**
