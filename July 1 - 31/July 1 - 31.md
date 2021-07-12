@@ -91,7 +91,7 @@
      - Watched video on Speed, Permutations and distance.    
      - [Solved 5 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/038002)
 
-## July 5 ##
+## July 6 ##
 > **Tasks**
 ### Coding ###
 - 📈 Skill rack
