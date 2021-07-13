@@ -192,3 +192,11 @@
 - 📈[Typing](keybr.com)
 - 📈Java programming
 - 📈Learnt JS
+
+## July 13 ##
+> **Tasks**
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈Completed daily workout in Elevate.
+- 📈[Typing](keybr.com)
+- 📈Solved two problems in C.
+- 📈Solved a problem in python.
