@@ -219,4 +219,5 @@
 - 📈Completed daily workout in Elevate.
 - 📈[Typing](keybr.com)
 - 📈Java programming
+- 📈Learnt JS
 
