@@ -207,7 +207,15 @@
 - 📈Completed daily workout in Elevate.
 - 📈[Typing](keybr.com)
 
-## July 14 ##
+## July 15 ##
 > **Tasks**
 - 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈Completed daily workout in Elevate.
+- 📈[Typing](keybr.com)
+
+## July 16 ##
+> **Tasks**
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈Completed daily workout in Elevate.
+- 📈[Typing](keybr.com)
+
