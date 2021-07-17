@@ -231,6 +231,7 @@
 - 📈 Completed daily workout in Elevate.
 ### Videos ###
 - 📈 Java programming
+- 📈 Product design
 ### Others ###
 - 📈[Typing](keybr.com)
 -
