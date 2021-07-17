@@ -224,9 +224,13 @@
 
 ## July 17 ##
 > **Tasks**
+### Programming ###
+- 📈Learnt JS
 ### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
 - 📈 Completed daily workout in Elevate.
 ### Videos ###
 - 📈 Java programming
 ### Others ###
 - 📈[Typing](keybr.com)
+-
