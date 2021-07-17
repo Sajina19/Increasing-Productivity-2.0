@@ -221,3 +221,12 @@
 - 📈Java programming
 - 📈Learnt JS
 
+
+## July 17 ##
+> **Tasks**
+### Games ###
+- 📈 Completed daily workout in Elevate.
+### Videos ###
+- 📈 Java programming
+### Others ###
+- 📈[Typing](keybr.com)
