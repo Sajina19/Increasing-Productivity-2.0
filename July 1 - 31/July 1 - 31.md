@@ -234,3 +234,9 @@
 - 📈 Product design
 ### Others ###
 - 📈[Typing](keybr.com)
+
+## July 18 ##
+> **Tasks**
+- 📈[Played daily workout in Lumosity.]()
+- 📈[Typing]()
+- 📈[Completed daily workout in Elevate.]()
