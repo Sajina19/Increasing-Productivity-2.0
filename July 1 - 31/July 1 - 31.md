@@ -237,6 +237,6 @@
 
 ## July 18 ##
 > **Tasks**
-- 📈[Played daily workout in Lumosity.]()
-- 📈[Typing]()
-- 📈[Completed daily workout in Elevate.]()
+- 📈[Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-18%20162018.png)
+- 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-18%20162805.png)
+- 📈[Completed daily workout in Elevate.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/WhatsApp%20Image%202021-07-18%20at%204.35.57%20PM.jpeg)
