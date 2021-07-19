@@ -248,7 +248,7 @@
 ### Programming ###
 - 📈Learnt JS
 ### Games ###
-- 📈[Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-19%20144008.png)(https://www.lumosity.com/app/v4/dashboard).
+- 📈[Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-19%20144008.png)
 - 📈 Completed daily workout in Elevate.
 ### Videos ###
 - 📈 AI
