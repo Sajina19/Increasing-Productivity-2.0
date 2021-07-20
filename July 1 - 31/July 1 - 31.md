@@ -267,6 +267,7 @@
 ### Programming ###
 - 📈 Skill rack
      - Solved two problems in C.
+     - Solved a problem in Python.
 - 📈Learnt JS
 ### Games ###
 - 📈[Played daily workout in Lumosity.]
