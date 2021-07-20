@@ -278,3 +278,4 @@
 - 📈 Java programming
 ### Others ###
 - 📈[Typing]
+- 📈Solved verbal questions.
