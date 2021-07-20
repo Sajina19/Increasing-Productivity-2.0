@@ -279,3 +279,8 @@
 ### Others ###
 - 📈[Typing]
 - 📈Solved verbal questions.
+- 📈Aptitude
+     - Solved 10 questions in Aligation, Averages and Mixtures.
+     - Watched video on Calendar & Time.    
+     - [Solved 3 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/038006)
+
