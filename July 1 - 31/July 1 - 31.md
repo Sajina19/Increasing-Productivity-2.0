@@ -270,14 +270,14 @@
      - Solved a problem in Python.
 - 📈Learnt JS
 ### Games ###
-- 📈[Played daily workout in Lumosity.]
-- 📈 Completed daily workout in Elevate.
+- 📈[Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-20%20161445.png)
+- 📈[Completed daily workout in Elevate.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/WhatsApp%20Image%202021-07-20%20at%203.36.09%20PM.jpeg)
 ### Videos ###
 - 📈 AI
 - 📈 Product design
 - 📈 Java programming
 ### Others ###
-- 📈[Typing]
+- 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-20%20162603.png)
 - 📈Solved verbal questions.
 - 📈Aptitude
      - Solved 10 questions in Aligation, Averages and Mixtures.
