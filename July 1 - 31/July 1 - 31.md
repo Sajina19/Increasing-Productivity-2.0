@@ -265,6 +265,8 @@
 ## July 20 ##
 > **Tasks**
 ### Programming ###
+- 📈 Skill rack
+     - Solved two problems in C.
 - 📈Learnt JS
 ### Games ###
 - 📈[Played daily workout in Lumosity.]
