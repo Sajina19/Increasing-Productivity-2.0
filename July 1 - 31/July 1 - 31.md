@@ -260,3 +260,18 @@
 - 📈Aptitude
      - Watched video on Ratio & Proportions,and Componendo & Dividendo rule.
      - Solved 5 questions in time and distance.
+
+
+## July 20 ##
+> **Tasks**
+### Programming ###
+- 📈Learnt JS
+### Games ###
+- 📈[Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
+### Videos ###
+- 📈 AI
+- 📈 Product design
+- 📈 Java programming
+### Others ###
+- 📈[Typing]
