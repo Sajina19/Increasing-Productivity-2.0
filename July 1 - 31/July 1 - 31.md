@@ -294,6 +294,7 @@
 - 📈Learnt JS
 ### Games ###
 - 📈[Played daily workout in Lumosity.]
+- 📈[Completed daily workout in Elevate.]
 ### Videos ###
 - 📈 Product design
 - 📈 Java programming
