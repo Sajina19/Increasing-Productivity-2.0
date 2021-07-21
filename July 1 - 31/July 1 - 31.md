@@ -290,6 +290,9 @@
 ## July 21 ##
 > **Tasks**
 ### Programming ###
+- 📈 Skill rack
+     - Solved two problems in C.
+     - Solved a problem in Java.    
 - 📈Learnt JS
 ### Games ###
 - 📈[Played daily workout in Lumosity.]
