@@ -289,6 +289,8 @@
 
 ## July 21 ##
 > **Tasks**
+### Programming ###
+- 📈Learnt JS
 ### Games ###
 - 📈[Played daily workout in Lumosity.]
 ### Videos ###
