@@ -259,7 +259,7 @@
 - 📈Learnt a verbal topic
 - 📈Aptitude
      - Watched video on Ratio & Proportions,and Componendo & Dividendo rule.
-     - Solved 5 questions in time and distance.
+     - Solved 5 questions in Speed and distance.
 
 
 ## July 20 ##
@@ -281,6 +281,23 @@
 - 📈Solved verbal questions.
 - 📈Aptitude
      - Solved 10 questions in Aligation, Averages and Mixtures.
-     - Watched video on Calendar & Time.    
+     - Watched video on Calendar & Averages.    
      - [Solved 3 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/038006)
 
+
+
+
+## July 21 ##
+> **Tasks**
+### Games ###
+- 📈[Played daily workout in Lumosity.]
+### Videos ###
+- 📈 Product design
+- 📈 Java programming
+### Others ###
+- 📈[Typing]
+- 📈Solved verbal questions.
+- 📈Aptitude
+     - Watched video on Boats & Streams and Set theory.
+     - Solved 3 questions of train problems.
+     - Solved 5 questions in Speed and distance.
