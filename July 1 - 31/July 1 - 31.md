@@ -285,8 +285,6 @@
      - [Solved 3 questions of train problems](https://www.indiabix.com/aptitude/problems-on-trains/038006)
 
 
-
-
 ## July 21 ##
 > **Tasks**
 ### Programming ###
