@@ -310,6 +310,8 @@
 ## July 22 ##
 > **Tasks**
 ### Programming ###
+- 📈 Skill rack
+     - Solved two problems in C.
 - 📈Learnt JS
 ### Games ###
 - 📈[Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-22%20113917.png)
@@ -320,5 +322,6 @@
 - 📈 Java programming
 ### Others ###
 - 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-22%20155244.png)
+- 📈Solved verbal questions.
 - 📈Aptitude
      - Watched videos on Ratios, and Clock.
