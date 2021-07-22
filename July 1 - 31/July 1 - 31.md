@@ -313,6 +313,8 @@
 - 📈Learnt JS
 ### Games ###
 - 📈[Played daily workout in Lumosity.]
+- 📈[Completed daily workout in Elevate.]
 ### Others ###
+- 📈[Typing]
 - 📈Aptitude
      - Watched videos on Ratios, and Clock.
