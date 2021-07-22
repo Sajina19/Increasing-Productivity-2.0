@@ -293,13 +293,13 @@
      - Solved a problem in Java.    
 - 📈Learnt JS
 ### Games ###
-- 📈[Played daily workout in Lumosity.]
-- 📈[Completed daily workout in Elevate.]
+- 📈[Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-21%20134437.png)
+- 📈[Completed daily workout in Elevate.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/WhatsApp%20Image%202021-07-21%20at%208.28.54%20PM.jpeg)
 ### Videos ###
 - 📈 Product design
 - 📈 Java programming
 ### Others ###
-- 📈[Typing]
+- 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-21%20175921.png)
 - 📈Solved verbal questions.
 - 📈Aptitude
      - Watched videos on Boats & Streams and Set theory.
