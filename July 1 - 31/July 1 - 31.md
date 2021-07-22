@@ -302,6 +302,17 @@
 - 📈[Typing]
 - 📈Solved verbal questions.
 - 📈Aptitude
-     - Watched video on Boats & Streams and Set theory.
+     - Watched videos on Boats & Streams and Set theory.
      - Solved 3 questions of train problems.
      - Solved 5 questions in Speed and distance.
+
+
+## July 22 ##
+> **Tasks**
+### Programming ###
+- 📈Learnt JS
+### Games ###
+- 📈[Played daily workout in Lumosity.]
+### Others ###
+- 📈Aptitude
+     - Watched videos on Ratios, and Clock.
