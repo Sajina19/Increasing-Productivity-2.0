@@ -312,9 +312,9 @@
 ### Programming ###
 - 📈Learnt JS
 ### Games ###
-- 📈[Played daily workout in Lumosity.]
-- 📈[Completed daily workout in Elevate.]
+- 📈[Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-22%20113917.png)
+- 📈[Completed daily workout in Elevate.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/WhatsApp%20Image%202021-07-22%20at%203.53.23%20PM.jpeg)
 ### Others ###
-- 📈[Typing]
+- 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-22%20155244.png)
 - 📈Aptitude
      - Watched videos on Ratios, and Clock.
