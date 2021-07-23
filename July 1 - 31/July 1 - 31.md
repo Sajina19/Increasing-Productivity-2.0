@@ -325,3 +325,21 @@
 - 📈Solved verbal questions.
 - 📈Aptitude
      - Watched videos on Ratios, and Clock.
+
+## July 23 ##
+> **Tasks**
+### Programming ###
+- 📈 Skill rack
+     - Solved two problems in C.
+- 📈Learnt JS
+### Games ###
+- 📈[Played daily workout in Lumosity.](https://www.lumosity.com/app/v4/dashboard)
+- 📈 Completed daily workout in Elevate.
+### Videos ###
+- 📈 AI
+- 📈 Product design
+- 📈 Java programming
+### Others ###
+- 📈[Typing]
+- 📈Aptitude
+     - Watched videos on Calendar,Set theory and cube root.
