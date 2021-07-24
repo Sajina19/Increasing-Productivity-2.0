@@ -343,3 +343,9 @@
 - 📈[Typing]
 - 📈Aptitude
      - Watched videos on Calendar,Set theory and cube root.
+
+## July 24 ##
+> **Tasks**
+- 📈Played daily workout in Lumosity.
+- 📈Typing
+- 📈Completed daily workout in Elevate.
