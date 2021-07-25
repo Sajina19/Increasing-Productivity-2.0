@@ -349,3 +349,9 @@
 - 📈Played daily workout in Lumosity.
 - 📈Typing
 - 📈Completed daily workout in Elevate.
+
+## July 25 ##
+> **Tasks**
+- 📈Played daily workout in Lumosity.
+- 📈Typing
+- 📈Completed daily workout in Elevate.
