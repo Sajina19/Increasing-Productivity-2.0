@@ -360,6 +360,7 @@
 ## July 26 ##
 > **Tasks**
 ### Programming ###
+- 📈Solved two questions in leet code.
 - 📈Learnt JS
 ### Games ###
 - 📈 Completed daily workout in Elevate.
