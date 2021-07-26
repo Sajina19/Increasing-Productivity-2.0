@@ -355,3 +355,16 @@
 - 📈Played daily workout in Lumosity.
 - 📈Typing
 - 📈Completed daily workout in Elevate.
+
+
+## July 26 ##
+> **Tasks**
+### Programming ###
+- 📈Learnt JS
+### Games ###
+- 📈 Completed daily workout in Elevate.
+### Videos ###
+- 📈 Java programming
+### Others ###
+- 📈Aptitude
+     - Watched videos on Ages and Percentage.
