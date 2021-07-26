@@ -364,6 +364,7 @@
 ### Games ###
 - 📈 Completed daily workout in Elevate.
 ### Videos ###
+- 📈 Product design
 - 📈 Java programming
 ### Others ###
 - 📈Aptitude
