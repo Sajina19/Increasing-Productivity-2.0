@@ -369,5 +369,6 @@
 - 📈 Product design
 - 📈 Java programming
 ### Others ###
+- 📈Typing
 - 📈Aptitude
      - Watched videos on Ages and Percentage.
