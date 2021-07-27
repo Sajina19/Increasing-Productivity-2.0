@@ -373,14 +373,20 @@
 - 📈Aptitude
      - Watched videos on Ages and Percentage.
 
+
 ## July 27 ##
 > **Tasks**
 ### Programming ###
 - 📈Learnt JS
+### Games ###
+- 📈 Completed daily workout in Elevate.
+- 📈Played daily workout in Lumosity.
 ### Videos ###
 - 📈 Product design
 - 📈 Java programming
-- 📈AI
+- 📈 AI
 ### Others ###
+- 📈Solved verbal questions.
+- 📈Solved two questions in train problems.[https://www.indiabix.com/aptitude/problems-on-trains/040001]
 - 📈Aptitude
      - Watched videos on Surds & indices and Calander problems.
