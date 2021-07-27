@@ -388,6 +388,7 @@
 ### Others ###
 - 📈Typing
 - 📈Solved verbal questions.
-- 📈Solved two questions in train problems.[https://www.indiabix.com/aptitude/problems-on-trains/040001]
 - 📈Aptitude
      - Watched videos on Surds & indices and Calander problems.
+     - 📈Solved two questions in train problems.[https://www.indiabix.com/aptitude/problems-on-trains/040001]
+     - 📈Solved three problems in speed and distance.
