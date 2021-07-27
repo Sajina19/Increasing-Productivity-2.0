@@ -372,3 +372,15 @@
 - 📈Typing
 - 📈Aptitude
      - Watched videos on Ages and Percentage.
+
+## July 27 ##
+> **Tasks**
+### Programming ###
+- 📈Learnt JS
+### Videos ###
+- 📈 Product design
+- 📈 Java programming
+- 📈AI
+### Others ###
+- 📈Aptitude
+     - Watched videos on Surds & indices and Calander problems.
