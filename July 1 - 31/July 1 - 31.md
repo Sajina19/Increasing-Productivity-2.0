@@ -386,6 +386,7 @@
 - 📈 Java programming
 - 📈 AI
 ### Others ###
+- 📈Typing
 - 📈Solved verbal questions.
 - 📈Solved two questions in train problems.[https://www.indiabix.com/aptitude/problems-on-trains/040001]
 - 📈Aptitude
