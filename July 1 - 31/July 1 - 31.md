@@ -377,6 +377,7 @@
 ## July 27 ##
 > **Tasks**
 ### Programming ###
+- 📈Solved two problems in leet code.
 - 📈Learnt JS
 ### Games ###
 - 📈 Completed daily workout in Elevate.
