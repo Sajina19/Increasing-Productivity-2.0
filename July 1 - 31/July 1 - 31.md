@@ -393,3 +393,19 @@
      - Watched videos on Surds & indices and Calander problems.
      - 📈Solved two questions in train problems.[https://www.indiabix.com/aptitude/problems-on-trains/040001]
      - 📈Solved three problems in speed and distance.
+
+## July 28 ##
+> **Tasks**
+### Programming ###
+- 📈Learnt JS
+### Videos ###
+- 📈 Product design
+- 📈 Java programming
+- 📈 AI
+### Others ###
+- 📈Solved verbal questions.
+- 📈Aptitude
+     - Watched videos on Chain problems.
+     - 📈Solved two questions in train problems.    
+     - 📈Solved 10 problems in surds and indices.     
+    
