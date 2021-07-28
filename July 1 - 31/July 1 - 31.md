@@ -398,11 +398,15 @@
 > **Tasks**
 ### Programming ###
 - 📈Learnt JS
+### Games ###
+- 📈 Completed daily workout in Elevate.
+- 📈Played daily workout in Lumosity.
 ### Videos ###
 - 📈 Product design
 - 📈 Java programming
 - 📈 AI
 ### Others ###
+- 📈Typing
 - 📈Solved verbal questions.
 - 📈Aptitude
      - Watched videos on Chain problems.
