@@ -400,6 +400,7 @@
 - 📈Learnt JS
 - 📈Solved a problem in Hackerank.
 - 📈Solved a problem in Leetcode.
+- 📈Solved two C programming problems in skillrack.
 ### Games ###
 - 📈 Completed daily workout in Elevate.
 - 📈Played daily workout in Lumosity.
