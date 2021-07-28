@@ -398,6 +398,8 @@
 > **Tasks**
 ### Programming ###
 - 📈Learnt JS
+- 📈Solved a problem in Hackerank.
+- 📈Solved a problem in Leetcode.
 ### Games ###
 - 📈 Completed daily workout in Elevate.
 - 📈Played daily workout in Lumosity.
