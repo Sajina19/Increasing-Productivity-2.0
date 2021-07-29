@@ -433,4 +433,5 @@
 - 📈Aptitude
      - 📈 Watched videos on Cube root and Calander.
      - 📈Solved verbal questions.
+     - 📈Solved 10 problems in surds and indices.  
 
