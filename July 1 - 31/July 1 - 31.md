@@ -412,7 +412,25 @@
 - 📈Typing
 - 📈Solved verbal questions.
 - 📈Aptitude
-     - Watched videos on Chain problems.
+     - 📈 Watched videos on Chain problems.
      - 📈Solved two questions in train problems.    
      - 📈Solved 10 problems in surds and indices.     
     
+
+## July 29 ##
+> **Tasks**
+### Programming ###
+- 📈Completed JS course
+### Games ###
+- 📈 Completed daily workout in Elevate.
+- 📈 Played daily workout in Lumosity.
+### Videos ###
+- 📈 Product design
+- 📈 Java programming
+- 📈 AI
+### Others ###
+- 📈Typing
+- 📈Aptitude
+     - 📈 Watched videos on Cube root and Calander.
+     - 📈Solved verbal questions.
+
