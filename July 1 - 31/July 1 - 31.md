@@ -440,6 +440,8 @@
 
 ## July 30 ##
 > **Tasks**
+### Programming ###
+- 📈Solved a problem in Leetcode.
 ### Games ###
 - 📈 Completed daily workout in Elevate.
 - 📈 Played daily workout in Lumosity.
