@@ -448,6 +448,7 @@
 - 📈 Java programming
 - 📈 AI
 ### Others ###
+- 📈Typing
 - 📈Aptitude
      - 📈Watched videos Percentages & Logarithms.
      - 📈Solved few verbal questions.
