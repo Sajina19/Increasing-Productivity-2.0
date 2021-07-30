@@ -436,3 +436,20 @@
      - 📈Solved 10 problems in surds and indices.  
      - 📈Learnt formulas of hight and distance.
 
+
+
+## July 30 ##
+> **Tasks**
+### Games ###
+- 📈 Completed daily workout in Elevate.
+- 📈 Played daily workout in Lumosity.
+### Videos ###
+- 📈 Product design
+- 📈 Java programming
+- 📈 AI
+### Others ###
+- 📈Aptitude
+     - 📈 Watched videos Percentages.
+     - 📈Solved few verbal questions.
+     - 📈Solved 5 problems in hight and distance.
+    
