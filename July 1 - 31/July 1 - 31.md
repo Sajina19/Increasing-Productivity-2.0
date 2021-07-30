@@ -431,7 +431,7 @@
 ### Others ###
 - 📈Typing
 - 📈Aptitude
-     - 📈 Watched videos on Cube root and Calander.
+     - 📈Watched videos on Cube root and Calander.
      - 📈Solved verbal questions.
      - 📈Solved 10 problems in surds and indices.  
      - 📈Learnt formulas of hight and distance.
@@ -449,7 +449,7 @@
 - 📈 AI
 ### Others ###
 - 📈Aptitude
-     - 📈 Watched videos Percentages & Logarithms.
+     - 📈Watched videos Percentages & Logarithms.
      - 📈Solved few verbal questions.
      - 📈Solved 5 problems in height and distance.
      - 📈Solved 5 problems in logarithms.
