@@ -449,7 +449,7 @@
 - 📈 AI
 ### Others ###
 - 📈Aptitude
-     - 📈 Watched videos Percentages.
+     - 📈 Watched videos Percentages & Logarithms.
      - 📈Solved few verbal questions.
-     - 📈Solved 5 problems in hight and distance.
+     - 📈Solved 5 problems in height and distance.
     
