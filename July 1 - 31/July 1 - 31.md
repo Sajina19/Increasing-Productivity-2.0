@@ -456,4 +456,11 @@
      - 📈Solved few verbal questions.
      - 📈Solved 5 problems in height and distance.
      - 📈Solved 5 problems in logarithms.
+
+
+## July 31 ##
+> **Tasks**
+- 📈Typing
+- 📈 Completed daily workout in Elevate.
+- 📈 Played daily workout in Lumosity.
     
