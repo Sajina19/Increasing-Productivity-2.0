@@ -444,13 +444,13 @@
 - 📈Solved a problem in Leetcode.
 ### Games ###
 - 📈 Completed daily workout in Elevate.
-- 📈 Played daily workout in Lumosity.
+- 📈[Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-30%20124404.png)
 ### Videos ###
 - 📈 Product design
 - 📈 Java programming
 - 📈 AI
 ### Others ###
-- 📈Typing
+- 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-30%20164711.png)
 - 📈Aptitude
      - 📈Watched videos Percentages & Logarithms.
      - 📈Solved few verbal questions.
