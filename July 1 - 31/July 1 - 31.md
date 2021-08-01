@@ -403,13 +403,13 @@
 - 📈Solved two C programming problems in skillrack.
 ### Games ###
 - 📈 Completed daily workout in Elevate.
-- 📈Played daily workout in Lumosity.
+- 📈Played daily workout in Lumosity.[https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-28%20120740.png]
 ### Videos ###
 - 📈 Product design
 - 📈 Java programming
 - 📈 AI
 ### Others ###
-- 📈Typing
+- 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-28%20132847.png)
 - 📈Solved verbal questions.
 - 📈Aptitude
      - 📈 Watched videos on Chain problems.
