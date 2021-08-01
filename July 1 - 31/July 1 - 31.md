@@ -423,13 +423,13 @@
 - 📈Completed JS course
 ### Games ###
 - 📈 Completed daily workout in Elevate.
-- 📈 Played daily workout in Lumosity.
+- 📈[Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-29%20123952.png)
 ### Videos ###
 - 📈 Product design
 - 📈 Java programming
 - 📈 AI
 ### Others ###
-- 📈Typing
+- 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-29%20130025.png)
 - 📈Aptitude
      - 📈Watched videos on Cube root and Calander.
      - 📈Solved verbal questions.
