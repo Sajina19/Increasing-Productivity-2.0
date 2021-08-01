@@ -460,7 +460,7 @@
 
 ## July 31 ##
 > **Tasks**
-- 📈Typing
+- 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-31%20203709.pngs)
 - 📈 Completed daily workout in Elevate.
-- 📈 Played daily workout in Lumosity.
+- [📈 Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/July%201%20-%2031/Proofs/Screenshot%202021-07-31%20203601.png)
     
