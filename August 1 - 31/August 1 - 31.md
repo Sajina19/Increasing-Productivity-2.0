@@ -5,7 +5,7 @@
 - 📈Completed daily workout in Elevate.
 
 
-## August 1 ##
+## August 2 ##
 > **Tasks**
 - 📈 [Typing]
 - 📈 [Played daily workout in Lumosity.]
