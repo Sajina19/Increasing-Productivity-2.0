@@ -31,7 +31,9 @@
      - 📈 Solved 5 problems in logarithms.
      - 📈 Solved 5 problems in Ratio and proportions.
 - 📈 Solved few verbal questions.
+- 📈 Solved a problem in leet code.
 - 📈 Skill rack
      - Solved 4 problems in C.
      - Solved a problem in java.
      - Solved a problem in python
+     
