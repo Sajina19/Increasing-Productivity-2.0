@@ -50,3 +50,4 @@
      - 📈 Solved 5 problems in Ratio and proportions.
 - 📈 Solved few verbal questions.
 - 📈 Solved a problem in leet code.
+- 📈 Learnt about AI.
