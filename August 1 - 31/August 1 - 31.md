@@ -37,3 +37,16 @@
      - Solved a problem in java.
      - Solved a problem in python
      
+
+## August 4 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
+- 📈 Watched Java programming video.
+- 📈Aptitude
+     - 📈 Watched videos on Set theorem and pipes & cisterns.
+     - 📈 Solved 5 problems in logarithms.
+     - 📈 Solved 5 problems in Ratio and proportions.
+- 📈 Solved few verbal questions.
+- 📈 Solved a problem in leet code.
