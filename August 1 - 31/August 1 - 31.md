@@ -81,3 +81,10 @@
 - 📈 Skill rack
      - Solved 5 problems in C.
 - 📈 Learnt about AI.
+
+
+## August 7 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
