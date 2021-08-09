@@ -103,3 +103,7 @@
 - 📈 [Played daily workout in Lumosity.]
 - 📈 Completed daily workout in Elevate.
 - 📈 Solved a problem in leet code.
+- 📈 Solved few verbal questions.
+- 📈Aptitude
+     - 📈 Watched videos on the topic Boats and streams.
+- 📈 Watched Java programming video.
