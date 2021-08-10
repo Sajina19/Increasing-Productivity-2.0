@@ -117,5 +117,5 @@
 - 📈 Solved a problem in leet code.
 - 📈 Solved few verbal questions.
 - 📈Aptitude
-     - 📈 Watched videos on the topic Ages.
+     - 📈 Watched videos on the topic Average.
 - 📈 Watched Java programming video.
