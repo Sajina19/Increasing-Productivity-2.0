@@ -120,3 +120,4 @@
      - 📈 Watched videos on the topic Average.
 - 📈 Watched Java programming video.
 - 📈 Solved few apti questions.
+- 📈 Learnt about AI.
