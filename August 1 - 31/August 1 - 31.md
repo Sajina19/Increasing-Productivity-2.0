@@ -119,4 +119,4 @@
 - 📈Aptitude
      - 📈 Watched videos on the topic Average.
 - 📈 Watched Java programming video.
-- 📈 Solved few apti classes.
+- 📈 Solved few apti questions.
