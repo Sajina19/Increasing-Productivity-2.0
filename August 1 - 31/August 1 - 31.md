@@ -131,3 +131,4 @@
 - 📈 Solved two problems in leet code.
 - 📈 Solved few verbal questions.
 - 📈 Watched Java programming video.
+- 📈 Learnt about AI.
