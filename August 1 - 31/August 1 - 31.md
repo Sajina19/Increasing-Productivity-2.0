@@ -121,3 +121,12 @@
 - 📈 Watched Java programming video.
 - 📈 Solved few apti questions.
 - 📈 Learnt about AI.
+
+
+## August 11 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
+- 📈 Solved two problems in leet code.
+- 📈 Solved few verbal questions.
