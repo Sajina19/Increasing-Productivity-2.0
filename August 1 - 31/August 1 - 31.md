@@ -132,3 +132,17 @@
 - 📈 Solved few verbal questions.
 - 📈 Watched Java programming video.
 - 📈 Learnt about AI.
+
+
+
+## August 12 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
+- 📈 Solved two problems in leet code.
+- 📈 Solved few apti questions.
+- 📈 Watched Java programming video.
+- 📈 Learnt about AI.
+- 📈Aptitude
+     - 📈 Watched video on Percentages.
