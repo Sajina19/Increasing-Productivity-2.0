@@ -158,3 +158,14 @@
 - 📈 Watched Java programming video.
 - 📈Aptitude
      - 📈 Watched video on Ages.
+
+
+## August 13 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
+- 📈 Solved few apti questions.
+- 📈 Watched Java programming video.
+- 📈Aptitude
+     - 📈 Watched video on Simplification.
