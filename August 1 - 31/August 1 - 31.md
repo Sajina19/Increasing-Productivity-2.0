@@ -148,7 +148,7 @@
      - 📈 Watched video on Percentages.
 
 
-## August 12 ##
+## August 13 ##
 > **Tasks**
 - 📈 [Typing]
 - 📈 [Played daily workout in Lumosity.]
@@ -160,7 +160,7 @@
      - 📈 Watched video on Ages.
 
 
-## August 13 ##
+## August 14 ##
 > **Tasks**
 - 📈 [Typing]
 - 📈 [Played daily workout in Lumosity.]
@@ -169,3 +169,9 @@
 - 📈 Watched Java programming video.
 - 📈Aptitude
      - 📈 Watched video on Simplification.
+
+## August 15 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
