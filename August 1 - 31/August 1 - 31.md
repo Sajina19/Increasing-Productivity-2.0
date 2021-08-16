@@ -183,6 +183,7 @@
 - 📈 Completed daily workout in Elevate.
 - 📈 Solved few verbal questions.
 - 📈 Solved few apti questions.
+- 📈 Solved two problems in skill rack.
 - 📈 Watched Java programming video.
 - 📈Aptitude
      - 📈 Watched video on permutations and combinations.
