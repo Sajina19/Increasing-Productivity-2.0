@@ -187,3 +187,18 @@
 - 📈 Watched Java programming video.
 - 📈Aptitude
      - 📈 Watched video on permutations and combinations.
+
+## August 17 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
+- 📈 Solved few verbal questions.
+- 📈 Solved few apti questions.
+- 📈 Solved two problems in C - skill rack.
+- 📈 Solved a problems in Python - skill rack.
+- 📈 Solved a problems in Java - skill rack.
+- 📈 Solved two problems in Leet code.
+- 📈 Watched Java programming video.
+- 📈Aptitude
+     - 📈 Watched video on permutations and combinations.
