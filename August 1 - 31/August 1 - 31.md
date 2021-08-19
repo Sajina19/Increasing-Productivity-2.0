@@ -213,3 +213,16 @@
 - 📈 Watched Java programming video.
 - 📈Aptitude
      - 📈 Watched video on Heights and distance.
+
+## August 19 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
+- 📈 Solved two problems in C - skill rack.
+- 📈 Solved few verbal questions.
+- 📈 Solved few apti questions in ages.
+- 📈 Solved two problems in Leet code.
+- 📈 Watched Java programming video.
+- 📈Aptitude
+     - 📈 Watched video on Heights and distance.
