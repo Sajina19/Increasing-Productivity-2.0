@@ -227,7 +227,7 @@
 - 📈Aptitude
      - 📈 Watched video on Heights and distance.
 
-## August 19 ##
+## August 20 ##
 > **Tasks**
 - 📈 [Typing]
 - 📈 [Played daily workout in Lumosity.]
@@ -237,3 +237,13 @@
 - 📈 Watched Java programming video.
 - 📈Aptitude
      - 📈 Watched video on Heights and distance and simplification.
+
+## August 20 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
+- 📈 Watched Java programming video.
+- 📈 Solved few verbal questions.
+- 📈Aptitude
+     - 📈 Watched video on  simplification.
