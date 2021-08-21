@@ -245,5 +245,6 @@
 - 📈 Completed daily workout in Elevate.
 - 📈 Watched Java programming video.
 - 📈 Solved few verbal questions.
+- 📈 Solved few apti questions in ages.
 - 📈Aptitude
      - 📈 Watched video on  simplification.
