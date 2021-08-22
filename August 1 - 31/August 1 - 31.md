@@ -238,7 +238,7 @@
 - 📈Aptitude
      - 📈 Watched video on Heights and distance and simplification.
 
-## August 20 ##
+## August 21 ##
 > **Tasks**
 - 📈 [Typing]
 - 📈 [Played daily workout in Lumosity.]
@@ -248,3 +248,10 @@
 - 📈 Solved few apti questions in ages.
 - 📈Aptitude
      - 📈 Watched video on  simplification.
+
+
+## August 22 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
