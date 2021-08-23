@@ -255,3 +255,10 @@
 - 📈 [Typing]
 - 📈 [Played daily workout in Lumosity.]
 - 📈 Completed daily workout in Elevate.
+
+
+## August 23 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
