@@ -262,3 +262,4 @@
 - 📈 [Typing]
 - 📈 [Played daily workout in Lumosity.]
 - 📈 Completed daily workout in Elevate.
+- 📈 Solved a problem in Leet code.
