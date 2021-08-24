@@ -273,5 +273,6 @@
 - 📈 Watched Java programming video.
 - 📈 Solved few verbal questions.
 - 📈 Solved few apti questions in ages.
+- 📈 Solved a problem in Leet code.
 - 📈Aptitude
      - 📈 Watched video on Aligation and mixture.
