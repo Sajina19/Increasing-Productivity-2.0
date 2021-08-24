@@ -263,3 +263,15 @@
 - 📈 [Played daily workout in Lumosity.]
 - 📈 Completed daily workout in Elevate.
 - 📈 Solved a problem in Leet code.
+
+
+## August 24 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
+- 📈 Watched Java programming video.
+- 📈 Solved few verbal questions.
+- 📈 Solved few apti questions in ages.
+- 📈Aptitude
+     - 📈 Watched video on Aligation and mixture.
