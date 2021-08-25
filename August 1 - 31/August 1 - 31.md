@@ -246,7 +246,7 @@
 - 📈 Watched Java programming video.
 - 📈 Solved few verbal questions.
 - 📈 Solved few apti questions in ages.
-- 📈Aptitude
+- 📈 Aptitude
      - 📈 Watched video on  simplification.
 
 
