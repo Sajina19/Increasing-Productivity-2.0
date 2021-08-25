@@ -276,3 +276,11 @@
 - 📈 Solved a problem in Leet code.
 - 📈Aptitude
      - 📈 Watched video on Aligation and mixture.
+
+## August 25 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
+- 📈 Watched Java programming video.
+- 📈 Solved two  verbal questions.
