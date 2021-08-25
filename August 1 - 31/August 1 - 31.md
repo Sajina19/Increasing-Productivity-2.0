@@ -235,7 +235,7 @@
 - 📈 Solved two problems in C - skill rack.
 - 📈 Solved two problems in Leet code.
 - 📈 Watched Java programming video.
-- 📈Aptitude
+- 📈 Aptitude
      - 📈 Watched video on Heights and distance and simplification.
 
 ## August 21 ##
