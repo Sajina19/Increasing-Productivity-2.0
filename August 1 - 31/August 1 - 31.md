@@ -274,7 +274,7 @@
 - 📈 Solved few verbal questions.
 - 📈 Solved few apti questions in ages.
 - 📈 Solved a problem in Leet code.
-- 📈Aptitude
+- 📈 Aptitude
      - 📈 Watched video on Aligation and mixture.
 
 ## August 25 ##
@@ -283,5 +283,6 @@
 - 📈 [Played daily workout in Lumosity.]
 - 📈 Completed daily workout in Elevate.
 - 📈 Watched Java programming video.
-- 📈Aptitude
+- 📈 Solved two problems in C - skill rack.
+- 📈 Aptitude
      - 📈 Watched video on Aligation and mixture.
