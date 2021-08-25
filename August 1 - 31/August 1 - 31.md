@@ -283,4 +283,5 @@
 - 📈 [Played daily workout in Lumosity.]
 - 📈 Completed daily workout in Elevate.
 - 📈 Watched Java programming video.
-
+- 📈Aptitude
+     - 📈 Watched video on Aligation and mixture.
