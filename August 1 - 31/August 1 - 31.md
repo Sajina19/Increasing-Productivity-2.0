@@ -294,3 +294,12 @@
 - 📈 [Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/August%201%20-%2031/August%20proofs/Screenshot%202021-08-26%20231022.png)
 - 📈 Completed daily workout in Elevate.
 - 📈 Watched Java programming video.
+
+## August 27 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
+- 📈 Watched Java programming video.
+- 📈 Aptitude
+     - 📈 Watched video on Aligation and mixture.
