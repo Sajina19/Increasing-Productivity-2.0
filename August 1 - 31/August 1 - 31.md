@@ -303,3 +303,4 @@
 - 📈 Watched Java programming video.
 - 📈 Aptitude
      - 📈 Watched video on Aligation and mixture.
+- 📈 JS learning.
