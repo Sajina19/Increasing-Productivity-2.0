@@ -304,3 +304,8 @@
 - 📈 Aptitude
      - 📈 Watched video on Aligation and mixture.
 - 📈 JS learning.
+
+## August 28 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
