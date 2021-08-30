@@ -317,3 +317,14 @@
 - 📈 [Played daily workout in Lumosity.]
 - 📈 Completed daily workout in Elevate.
 
+## August 30 ##
+> **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
+- 📈 Watched Java programming video.
+- 📈 Solved few verbal questions.
+- 📈 Solved a problem in C - skill rack.
+- 📈 Solved few apti questions in ages.
+- 📈 Aptitude
+     - 📈 Watched video on short cuts.
