@@ -335,5 +335,6 @@
 - 📈 Watched Java programming video.
 - 📈 Solved two problems in C - skill rack.
 - 📈 Solved a problem in Java - skill rack.
+- 📈 Solved a problem in Python - skill rack.
 - 📈 Aptitude
      - 📈 Watched video on percentages.
