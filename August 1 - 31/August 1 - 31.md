@@ -332,6 +332,9 @@
 
 ## August 31 ##
 > **Tasks**
+- 📈 [Typing]
+- 📈 [Played daily workout in Lumosity.]
+- 📈 Completed daily workout in Elevate.
 - 📈 Watched Java programming video.
 - 📈 Solved two problems in C - skill rack.
 - 📈 Solved a problem in Java - skill rack.
