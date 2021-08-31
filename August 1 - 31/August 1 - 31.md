@@ -336,6 +336,8 @@
 - 📈 [Played daily workout in Lumosity.]
 - 📈 Completed daily workout in Elevate.
 - 📈 Watched Java programming video.
+- 📈 Solved few verbal questions.
+- 📈 Solved few apti questions in decimal fraction.
 - 📈 Solved two problems in C - skill rack.
 - 📈 Solved a problem in Java - skill rack.
 - 📈 Solved a problem in Python - skill rack.
