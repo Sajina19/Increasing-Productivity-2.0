@@ -50,3 +50,9 @@
 ### Others ###
 - 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-04%20232213.png)
 - 📈Attended Digital marketing workshop.
+
+## September 5 ##
+> **Tasks**
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
+- 📈[Typing]
