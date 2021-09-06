@@ -54,7 +54,7 @@
 ## September 5 ##
 > **Tasks**
 - 📈Completed daily challenge in Elevate
-- 📈[Played daily workout in Lumosity.]
+[Played daily workout in Lumosity.]
 - 📈[Typing]
 
 ## September 6 ##
@@ -67,6 +67,7 @@
   - 📈Setting Java environment
   - 📈Intro to JVM
   - 📈My first Java program
+- 📈Introduction to Data structures.
 ### Games ###
 - 📈Completed daily challenge in Elevate
 - 📈[Played daily workout in Lumosity.]()
