@@ -68,6 +68,7 @@
   - 📈Intro to JVM
   - 📈My first Java program
 - 📈Introduction to Data structures.
+- 📈Overview of DBMS.
 ### Games ###
 - 📈Completed daily challenge in Elevate
 - 📈[Played daily workout in Lumosity.]()
