@@ -72,5 +72,5 @@
 - 📈[Played daily workout in Lumosity.]
 ### Others ###
 - 📈[Typing]
-- 📈Computer Architecture
+- 📈Computer Architecture Blog.
 - 📈Watched Apti video on Compound Interest.
