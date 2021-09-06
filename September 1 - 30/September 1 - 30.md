@@ -69,7 +69,7 @@
   - 📈My first Java program
 ### Games ###
 - 📈Completed daily challenge in Elevate
-- 📈[Played daily workout in Lumosity.]
+- 📈[Played daily workout in Lumosity.]()
 ### Others ###
 - 📈[Typing]
 - 📈Computer Architecture Blog.
