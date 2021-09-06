@@ -59,6 +59,17 @@
 
 ## September 6 ##
 > **Tasks**
+### Coding ###
+- 📈Watched Java programming video.
+- 📈Java Blog
+  - 📈Overview of Java
+  - 📈Features Of Java
+  - 📈Setting Java environment
+  - 📈Intro to JVM
+  - 📈My first Java program
+### Games ###
 - 📈Completed daily challenge in Elevate
 - 📈[Played daily workout in Lumosity.]
+### Others ###
 - 📈[Typing]
+- 📈Watched Apti video on Compound Interest.
