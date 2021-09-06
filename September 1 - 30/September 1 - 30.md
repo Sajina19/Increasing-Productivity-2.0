@@ -56,3 +56,9 @@
 - 📈Completed daily challenge in Elevate
 - 📈[Played daily workout in Lumosity.]
 - 📈[Typing]
+
+## September 6 ##
+> **Tasks**
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
+- 📈[Typing]
