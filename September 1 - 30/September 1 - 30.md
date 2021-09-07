@@ -81,6 +81,7 @@
 > **Tasks**
 ### Coding ###
 - 📈Watched Java programming video.
+- 📈Components of DBMS.
 ### Games ###
 - 📈Completed daily challenge in Elevate
 - 📈[Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-07%20225800.png)
