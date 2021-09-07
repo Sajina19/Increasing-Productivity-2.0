@@ -76,3 +76,15 @@
 - 📈[Typing]
 - 📈Computer Architecture Blog.
 - 📈Watched Apti video on Compound Interest.
+
+## September 7 ##
+> **Tasks**
+### Coding ###
+- 📈Watched Java programming video.
+### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]()
+### Others ###
+- 📈[Typing]
+- 📈Watched Apti video on Compound Interest.
+- 📈Solved 15 questions in aptitude - Compound Interest.
