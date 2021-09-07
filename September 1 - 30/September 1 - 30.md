@@ -88,4 +88,5 @@
 ### Others ###
 - 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-07%20230333.png)
 - 📈Watched Apti video on Compound Interest.
+- 📈Computer Architecture - RAM.
 - 📈Solved 15 questions in aptitude - Compound Interest.
