@@ -90,3 +90,10 @@
 - 📈Watched Apti video on Compound Interest.
 - 📈Computer Architecture - RAM.
 - 📈Solved 15 questions in aptitude - Compound Interest.
+
+
+## September 8 ##
+> **Tasks**
+- 📈Completed daily challenge in Elevate
+[Played daily workout in Lumosity.]
+- 📈[Typing]
