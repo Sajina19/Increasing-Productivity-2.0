@@ -96,10 +96,10 @@
 > **Tasks**
 ### Coding ###
 - 📈Watched Java programming video.
-- 📈Solved two programs in C - skillrack.
+- 📈Solved two programs in C - Skillrack.
 ### Games ###
 - 📈Completed daily challenge in Elevate
-- 📈[Played daily workout in Lumosity.]
+[Played daily workout in Lumosity.]
 ### Others ###
 - 📈Watched Apti video on Compound Interest.
 - 📈[Typing]
