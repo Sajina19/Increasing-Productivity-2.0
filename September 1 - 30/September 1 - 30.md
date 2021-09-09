@@ -112,6 +112,12 @@
 - 📈Solved two programs in C - Skillrack.
 - 📈Solved two programs in Java.
 - 📈Solved two programs in SQL - Hackerank.
+- 📈Java Blog
+  - 📈Variable in Java
+  - 📈Data type and identifier in Java.
+  - 📈Static and Initializer block
+  - 📈Type Casting
+  - 📈Conditional statement.
 ### Games ###
 - 📈Completed daily challenge in Elevate
 - 📈[Played daily workout in Lumosity.]
