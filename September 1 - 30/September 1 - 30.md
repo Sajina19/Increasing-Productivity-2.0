@@ -112,6 +112,11 @@
 - 📈Solved two programs in C - Skillrack.
 - 📈Solved two programs in Java.
 - 📈Solved two programs in SQL - Hackerank.
+### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
 ### Others ###
 - 📈Watched Apti video on Compound Interest.
 - 📈Solved 15 questions in aptitude - Compound Interest.
+- 📈Solved verbal questions.
+- 📈[Typing]
