@@ -103,3 +103,15 @@
 ### Others ###
 - 📈Watched Apti video on Compound Interest.
 - 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-08%20235212.png)
+
+
+## September 9 ##
+> **Tasks**
+### Coding ###
+- 📈Watched Java programming video.
+- 📈Solved two programs in C - Skillrack.
+- 📈Solved two programs in Java.
+- 📈Solved two programs in SQL - Hackerank.
+### Others ###
+- 📈Watched Apti video on Compound Interest.
+- 📈Solved 15 questions in aptitude - Compound Interest.
