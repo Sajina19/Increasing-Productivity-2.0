@@ -126,3 +126,13 @@
 - 📈Solved 15 questions in aptitude - Compound Interest.
 - 📈Solved verbal questions.
 - 📈[Typing]
+
+
+## September 10 ##
+> **Tasks**
+### Coding ###
+- 📈Watched Java programming video.
+- 📈Solved two programs in C - Skillrack.
+- 📈Solved two programs in Java.
+- 📈Solved two programs in SQL - Hackerank.
+- 📈Java Blog
