@@ -122,7 +122,7 @@
 - 📈Completed daily challenge in Elevate
 - 📈[Played daily workout in Lumosity.]
 ### Others ###
-- 📈Watched Apti video on Compound Interest.
+- 📈Watched Apti video on Time and Distance.
 - 📈Solved 15 questions in aptitude - Compound Interest.
 - 📈Solved verbal questions.
 - 📈[Typing]
@@ -136,3 +136,14 @@
 - 📈Solved two programs in Java.
 - 📈Solved two programs in SQL - Hackerank.
 - 📈Java Blog
+  - 📈Switch statement 
+  - 📈Loops in Java
+  - 📈Break Continue Statement in Java
+  - 📈Operators in Java
+### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
+### Others ###
+- 📈Watched Apti video on Time and Distance.
+- 📈[Typing]
+  
