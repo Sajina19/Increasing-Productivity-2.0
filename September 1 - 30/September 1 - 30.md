@@ -147,3 +147,9 @@
 - 📈Watched Apti video on Time and Distance.
 - 📈[Typing]
   
+
+  ## September 12 ##
+> **Tasks**
+### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
