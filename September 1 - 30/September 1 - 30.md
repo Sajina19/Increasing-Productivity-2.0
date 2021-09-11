@@ -150,6 +150,13 @@
 
   ## September 12 ##
 > **Tasks**
+### Coding ###
+- 📈Java Blog
+    - 📈Java Array
+    - 📈Ways to create object in Java.
+    - 📈command line argument.
 ### Games ###
 - 📈Completed daily challenge in Elevate
 - 📈[Played daily workout in Lumosity.]
+### Others ###
+- 📈[Typing]
