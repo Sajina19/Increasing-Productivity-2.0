@@ -148,7 +148,7 @@
 - 📈[Typing]
   
 
-  ## September 12 ##
+## September 11 ##
 > **Tasks**
 ### Coding ###
 - 📈Java Blog
@@ -160,3 +160,17 @@
 - 📈[Played daily workout in Lumosity.]
 ### Others ###
 - 📈[Typing]
+
+
+
+## September 12 ##
+> **Tasks**
+### Coding ###
+- 📈Watched Java programming video.
+### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
+### Others ###
+- 📈[Typing]
+- 📈Watched Apti video on Time and Distance.
+
