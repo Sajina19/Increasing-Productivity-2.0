@@ -173,3 +173,20 @@
 - 📈[Typing]
 - 📈Watched Apti video on Time and Distance.
 
+
+## September 13 ##
+> **Tasks**
+### Coding ###
+- 📈Watched Java programming video.
+- 📈Solved two programs in C - Skillrack.
+- 📈Solved two programs in Java.
+- 📈Solved two programs in SQL - Hackerank.
+### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
+### Others ###
+- 📈[Typing]
+- 📈Watched Apti video on Time and Distance.
+- 📈Computer Architecture Blog.
+- 📈[The Need to Invest](https://zerodha.com/varsity/chapter/the-need-to-invest/)
+
