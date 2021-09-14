@@ -206,3 +206,4 @@
   - 📈Computer Architecture Blog.
   - 📈Data structures - Space complexity.
   - 📈Dbms - Database architecture,Types of data model.
+  - 📈[Regulators](https://zerodha.com/varsity/chapter/regulators/)
