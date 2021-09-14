@@ -190,7 +190,7 @@
 - 📈Computer Architecture Blog.
 - 📈[The Need to Invest](https://zerodha.com/varsity/chapter/the-need-to-invest/)
 
-## September 13 ##
+## September 14 ##
 > **Tasks**
 ### Coding ###
 - 📈Watched Java programming video.
