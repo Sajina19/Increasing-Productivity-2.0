@@ -202,7 +202,11 @@
   - 📈Pass by value.
   - 📈Constructor in Java.
   - 📈Java modifiers.
+  ### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
   ### Others ###
+  - 📈[Typing]
   - 📈Computer Architecture Blog.
   - 📈Data structures - Space complexity.
   - 📈Dbms - Database architecture,Types of data model.
