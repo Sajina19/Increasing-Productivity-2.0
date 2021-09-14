@@ -202,3 +202,7 @@
   - 📈Pass by value.
   - 📈Constructor in Java.
   - 📈Java modifiers.
+  ### Others ###
+  - 📈Computer Architecture Blog.
+  - 📈Data structures - Space complexity.
+  - 📈Dbms - Database architecture,Types of data model.
