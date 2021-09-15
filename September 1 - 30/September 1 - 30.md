@@ -211,3 +211,17 @@
   - 📈Data structures - Space complexity.
   - 📈Dbms - Database architecture,Types of data model.
   - 📈[Regulators](https://zerodha.com/varsity/chapter/regulators/).
+
+
+  ## September 15 ##
+> **Tasks**
+### Coding ###
+- 📈Solved a program in C - Skillrack.
+- 📈Solved two programs in Java.
+- 📈Solved two programs in SQL - Hackerank.
+ ### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
+  ### Others ###
+- 📈[Typing]
+- 📈[Financial Intermediaries](https://zerodha.com/varsity/chapter/financial-intermediaries/)
