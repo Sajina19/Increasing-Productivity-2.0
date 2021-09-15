@@ -225,4 +225,4 @@
   ### Others ###
 - 📈[Typing]
 - 📈[Financial Intermediaries](https://zerodha.com/varsity/chapter/financial-intermediaries/)
-- 📈[Created hover card - html & css]()
+- 📈[Created hover card - html & css](https://github.com/Sajina19/Card-with-hover-effect)
