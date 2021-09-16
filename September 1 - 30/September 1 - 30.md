@@ -226,3 +226,11 @@
 - 📈[Typing]
 - 📈[Financial Intermediaries](https://zerodha.com/varsity/chapter/financial-intermediaries/)
 - 📈[Created hover card - html & css](https://github.com/Sajina19/Card-with-hover-effect)
+
+
+## September 16 ##
+> **Tasks**
+### Coding ###
+- 📈Solved two programs in C - Skillrack.
+- 📈Solved two programs in Java.
+- 📈Solved two programs in SQL - Hackerank.
