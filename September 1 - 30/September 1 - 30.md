@@ -255,6 +255,7 @@
 > **Tasks**
 ### Coding ###
 - 📈Solved two programs in C - Skillrack.
+- 📈Solved two programs in Java.
  ### Games ###
 - 📈Completed daily challenge in Elevate
 - 📈[Played daily workout in Lumosity.]
