@@ -262,3 +262,25 @@
 - 📈[Played daily workout in Lumosity.]
   ### Others ###
 - 📈[Typing]
+
+
+## September 19 ##
+> **Tasks**
+ ### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
+  ### Others ###
+- 📈[Typing]
+
+
+## September 20 ##
+> **Tasks**
+### Coding ###
+- 📈Solved two programs in C - Skillrack.
+- 📈Solved two programs in Java.
+- 📈Solved two programs in SQL - Hackerank.
+ ### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
+  ### Others ###
+- 📈[Typing]
