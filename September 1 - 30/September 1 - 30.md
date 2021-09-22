@@ -301,3 +301,17 @@
   ### Others ###
 - 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-21%20235304.png)
 - 📈[The IPO Markets – Part 1](https://zerodha.com/varsity/chapter/the-ipo-markets-part-1/)
+
+
+
+## September 22 ##
+> **Tasks**
+### Coding ###
+- 📈Solved two programs in C - Skillrack.
+- 📈Solved two programs in Java.
+- 📈Solved two programs in SQL - Hackerank.
+ ### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
+  ### Others ###
+- 📈[Typing]
