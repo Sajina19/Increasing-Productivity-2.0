@@ -307,7 +307,7 @@
 ## September 22 ##
 > **Tasks**
 ### Coding ###
-- 📈Solved two programs in C - Skillrack.
+- 📈Solved a program in C - Skillrack.
 - 📈Solved two programs in Java.
 - 📈Solved two programs in SQL - Hackerank.
  ### Games ###
@@ -319,10 +319,9 @@
 
 
 
-## September 22 ##
+## September 23 ##
 > **Tasks**
 ### Coding ###
-- 📈Solved two programs in C - Skillrack.
 - 📈Solved two programs in Java.
 - 📈Solved two programs in SQL - Hackerank.
  ### Games ###
