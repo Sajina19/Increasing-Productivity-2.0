@@ -344,6 +344,6 @@
 > **Tasks**
  ### Games ###
 - 📈Completed daily challenge in Elevate
-- 📈[Played daily workout in Lumosity.]
+- 📈[Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-25%20233823.png)
   ### Others ###
-- 📈[Typing]
+- 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-24%20233339.png)
