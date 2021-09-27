@@ -366,7 +366,7 @@
 - 📈Solved two programs in SQL - Hackerank.
  ### Games ###
 - 📈Completed daily challenge in Elevate
-- 📈[Played daily workout in Lumosity.]
+- 📈[Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-27%20230715.png)
   ### Others ###
 - 📈Worked on Logo designing.
-- 📈[Typing]
+- 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-27%20230910.png)
