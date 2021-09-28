@@ -372,9 +372,6 @@
 - 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-27%20230910.png)
 
 
-
-## September 28 ##
-> **Tasks**
 ## September 27 ##
 > **Tasks**
 ### Coding ###
