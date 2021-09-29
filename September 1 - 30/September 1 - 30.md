@@ -372,7 +372,7 @@
 - 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-27%20230910.png)
 
 
-## September 27 ##
+## September 28 ##
 > **Tasks**
 ### Coding ###
 - 📈Solved two programs in Java.
@@ -382,3 +382,12 @@
 - 📈[Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-28%20225604.png)
   ### Others ###
 - 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-28%20224301.png)
+
+
+## September 29 ##
+> **Tasks**
+### Coding ###
+- 📈Solved three programs in C - Skillrack.
+- 📈Solved two programs in Java.
+- 📈Solved two programs in SQL - Hackerank.
+- 📈Solved a problem in leetcode.
