@@ -391,3 +391,8 @@
 - 📈Solved two programs in Java.
 - 📈Solved two programs in SQL - Hackerank.
 - 📈Solved a problem in leetcode.
+ ### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
+  ### Others ###
+- 📈[Typing]
