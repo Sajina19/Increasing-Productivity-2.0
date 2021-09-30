@@ -396,3 +396,10 @@
 - 📈[Played daily workout in Lumosity.](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-29%20230727.png)
   ### Others ###
 - 📈[Typing](https://github.com/Sajina19/Increasing-Productivity-2.0/blob/main/September%201%20-%2030/September%20proofs/Screenshot%202021-09-29%20231004.png)
+
+
+
+## September 30 ##
+> **Tasks**
+### Coding ###
+- 📈Solved two programs in C - Skillrack.
