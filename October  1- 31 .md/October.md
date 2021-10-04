@@ -23,3 +23,12 @@
 - 📈[Played daily workout in Lumosity.]
   ### Others ###
 - 📈[Typing]
+
+## October 4 ##
+> **Tasks**
+ ### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
+  ### Others ###
+- 📈[Typing]
+- 📈Web development
