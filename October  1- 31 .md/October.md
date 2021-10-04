@@ -32,3 +32,11 @@
   ### Others ###
 - 📈[Typing]
 - 📈Web development
+
+
+## October 5 ##
+> **Tasks**
+ ### Games ###
+- 📈Completed daily challenge in Elevate
+  ### Others ###
+- 📈Web development- website creation
