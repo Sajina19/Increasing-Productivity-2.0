@@ -51,6 +51,17 @@
 
 ## October 7 ##
 > **Tasks**
+### Coding ###
+- 📈Solved two programs in SQL - Hackerank.
+ ### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈[Played daily workout in Lumosity.]
+  ### Others ###
+- 📈[Typing]
+
+
+## October 8 ##
+> **Tasks**
  ### Games ###
 - 📈Completed daily challenge in Elevate
 - 📈[Played daily workout in Lumosity.]
