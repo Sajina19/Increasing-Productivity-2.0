@@ -67,3 +67,9 @@
 - 📈[Played daily workout in Lumosity.]
   ### Others ###
 - 📈[Typing]
+
+
+## October 9 ##
+> **Tasks**
+Sem practical lab exams were going on this week.I was busy with it,So couldn't do the tasks properly.
+- 📈[Typing]
