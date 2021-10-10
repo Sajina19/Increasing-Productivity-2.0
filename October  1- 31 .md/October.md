@@ -73,3 +73,10 @@
 > **Tasks**
 - Sem practical lab exams were going on this week.I was busy with it,So couldn't do the tasks properly.
 - 📈[Typing]
+
+
+
+## October 10##
+> **Tasks**
+- Learning for sem.
+- 📈[Typing]
