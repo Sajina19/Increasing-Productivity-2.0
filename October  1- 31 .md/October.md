@@ -80,3 +80,9 @@
 > **Tasks**
 - Learning for sem.
 - 📈[Typing]
+
+
+## October 10##
+> **Tasks**
+- Had semester exam.
+- 📈[Typing]
