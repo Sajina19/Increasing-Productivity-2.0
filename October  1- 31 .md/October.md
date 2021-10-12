@@ -82,7 +82,12 @@
 - 📈[Typing]
 
 
-## October 10##
+## October 11##
 > **Tasks**
 - Had semester exam.
+- 📈[Typing]
+
+
+## October 12##
+> **Tasks**
 - 📈[Typing]
