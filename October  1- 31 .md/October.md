@@ -91,3 +91,8 @@
 ## October 12##
 > **Tasks**
 - 📈[Typing]
+
+
+## October 13##
+> **Tasks**
+- 📈[Typing]
