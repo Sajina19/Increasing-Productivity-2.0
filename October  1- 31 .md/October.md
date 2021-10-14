@@ -96,3 +96,11 @@
 ## October 13##
 > **Tasks**
 - 📈[Typing]
+
+
+## October 14 ##
+> **Tasks**
+### Coding ###
+- 📈Solved a program in C - Skillrack.
+- 📈Solved two programs in Java.
+- 📈Solved two programs in SQL - Hackerank.
