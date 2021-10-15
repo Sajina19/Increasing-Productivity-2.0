@@ -104,3 +104,8 @@
 - 📈Solved a program in C - Skillrack.
 - 📈Solved two programs in Java.
 - 📈Solved two programs in SQL - Hackerank.
+
+## October 15 ##
+> **Tasks**
+  ### Others ###
+- 📈[The Stock Markets](https://zerodha.com/varsity/chapter/the-stock-markets/)
