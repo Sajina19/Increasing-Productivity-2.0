@@ -109,3 +109,4 @@
 > **Tasks**
   ### Others ###
 - 📈[The Stock Markets](https://zerodha.com/varsity/chapter/the-stock-markets/)
+- 📈[The Stock Markets index](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
