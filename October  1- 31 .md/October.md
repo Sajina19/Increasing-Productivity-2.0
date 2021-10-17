@@ -117,3 +117,9 @@
 > **Tasks**
   ### Others ###
 - 📈[Typing]
+
+## October 16 ##
+> **Tasks**
+  ### Others ###
+- 📈Presentation
+- 📈Softskills
