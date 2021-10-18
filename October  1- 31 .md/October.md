@@ -118,8 +118,14 @@
   ### Others ###
 - 📈[Typing]
 
-## October 16 ##
+## October 17 ##
 > **Tasks**
   ### Others ###
 - 📈Presentation
 - 📈Softskills
+
+
+## October 18 ##
+> **Tasks**
+  ### Others ###
+- 📈[Typing]
