@@ -129,3 +129,21 @@
 > **Tasks**
   ### Others ###
 - 📈[Typing]
+
+
+## October 19 ##
+> **Tasks**
+  ### Others ###
+- 📈[Typing]
+- DBMS
+  - 📈ER Model: Basic Concepts
+  - 📈ER Model: Creating ER Diagram
+  - 📈ER Model: Generalization and Specialization
+- CA
+  - 📈Architecture of Computer System
+  - 📈Logic Gates
+  - 📈Registers
+  - 📈Instruction Codes
+  - 📈Addressing Modes and Instruction Cycle
+- Software engineering
+
