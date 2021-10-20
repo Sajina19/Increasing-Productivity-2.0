@@ -147,3 +147,7 @@
   - 📈Addressing Modes and Instruction Cycle
 - Software engineering
 
+## October 20 ##
+> **Tasks**
+  ### Others ###
+- 📈[Typing]
