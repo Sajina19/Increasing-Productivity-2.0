@@ -151,3 +151,9 @@
 > **Tasks**
   ### Others ###
 - 📈[Typing]
+
+## October 21 ##
+> **Tasks**
+  ### Others ###
+- 📈[Typing]
+- 📈Software engineering
