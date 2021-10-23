@@ -163,3 +163,10 @@
 > **Tasks**
   ### Others ###
 - 📈[Typing]
+
+
+## October 23 ##
+> **Tasks**
+  ### Others ###
+- 📈[Typing]
+- 📈Software engineering
