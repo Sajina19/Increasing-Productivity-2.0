@@ -226,3 +226,12 @@
 - 📈Played daily workout in Lumosity.
   ### Others ###
 - 📈[Typing]
+
+
+## October 30 ##
+> **Tasks**
+### Games ###
+- 📈Completed daily challenge in Elevate
+- 📈Played daily workout in Lumosity.
+  ### Others ###
+- 📈[Typing]
