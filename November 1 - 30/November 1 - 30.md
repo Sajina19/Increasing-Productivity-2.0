@@ -5,3 +5,11 @@
 - 🌩️Played daily workout in Lumosity.
  ### Others ###
 - 🌩️[Typing]
+
+## November 2 ##
+> **Tasks**
+### Games ###
+- 🌩️Completed daily challenge in Elevate
+- 🌩️Played daily workout in Lumosity.
+ ### Others ###
+- 🌩️[Typing]
