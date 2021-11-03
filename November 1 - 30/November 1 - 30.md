@@ -23,3 +23,4 @@
  ### Others ###
 - 🌩️[Typing]
 - 🌩️[The Stock Markets Index](https://zerodha.com/varsity/chapter/the-stock-markets-index/)
+- 🌩️[API Testing](https://www.studytonight.com/post/what-is-api-testing-what-are-the-advantages-and-drawbacks)
