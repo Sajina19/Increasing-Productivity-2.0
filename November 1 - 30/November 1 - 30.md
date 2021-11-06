@@ -42,3 +42,17 @@
 - 🌩️Played daily workout in Lumosity.
  ### Others ###
 - 🌩️[Typing]
+
+
+## November 5 ##
+> **Tasks**
+### Coding ###
+- 🌩️Solved 5 programs in C functions.
+- 🌩️Solved a program in java.
+- 🌩️Java blog
+  - 🌩️Objects and Classes.
+### Games ###
+- 🌩️Completed daily challenge in Elevate
+- 🌩️Played daily workout in Lumosity.
+ ### Others ###
+- 🌩️[Typing]
