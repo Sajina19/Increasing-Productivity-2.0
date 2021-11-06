@@ -44,7 +44,7 @@
 - 🌩️[Typing]
 
 
-## November 5 ##
+## November 6 ##
 > **Tasks**
 ### Coding ###
 - 🌩️Solved 5 programs in C functions.
