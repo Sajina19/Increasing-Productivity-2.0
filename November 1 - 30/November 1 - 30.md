@@ -56,3 +56,4 @@
 - 🌩️Played daily workout in Lumosity.
  ### Others ###
 - 🌩️[Typing]
+- 🌩️[Troubleshoot 100% Disk Usage in Windows 10](https://www.studytonight.com/post/troubleshoot-100-disk-usage-in-windows-10)
