@@ -57,3 +57,12 @@
  ### Others ###
 - 🌩️[Typing]
 - 🌩️[Troubleshoot 100% Disk Usage in Windows 10](https://www.studytonight.com/post/troubleshoot-100-disk-usage-in-windows-10)
+
+## November 7 ##
+> **Tasks**
+### Games ###
+- 🌩️Completed daily challenge in Elevate
+- 🌩️Played daily workout in Lumosity.
+ ### Others ###
+- 🌩️[Typing]
+- 🌩️Learnt compound interest,Time and distance chapter in aptitude.
