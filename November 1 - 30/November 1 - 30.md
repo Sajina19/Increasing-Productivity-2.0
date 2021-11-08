@@ -66,3 +66,16 @@
  ### Others ###
 - 🌩️[Typing]
 - 🌩️Learnt compound interest,Time and distance chapter in aptitude.
+
+
+## November 8 ##
+> **Tasks**
+### Coding ###
+- 🌩️Solved 2 programs in C functions.
+- 🌩️Solved a program in java.
+- 🌩️Solved a program in leetcode - java.
+### Games ###
+- 🌩️Completed daily challenge in Elevate
+- 🌩️Played daily workout in Lumosity.
+ ### Others ###
+- 🌩️[Typing]
