@@ -79,3 +79,4 @@
 - 🌩️Played daily workout in Lumosity.
  ### Others ###
 - 🌩️[Typing]
+- 🌩️Solved few verbal questions.
