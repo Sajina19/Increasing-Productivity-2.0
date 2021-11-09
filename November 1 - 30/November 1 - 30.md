@@ -82,7 +82,7 @@
 - 🌩️Solved few verbal questions.
 
 
-## November 9##
+## November 9 ##
 > **Tasks**
 ### Games ###
 - 🌩️Completed daily challenge in Elevate
