@@ -87,6 +87,7 @@
 ### Coding ###
 - 🌩️Java blog
   - 🌩️Method in java.
+  - 🌩️IDE
 ### Games ###
 - 🌩️Completed daily challenge in Elevate
 - 🌩️Played daily workout in Lumosity.
