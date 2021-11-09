@@ -84,6 +84,9 @@
 
 ## November 9 ##
 > **Tasks**
+### Coding ###
+- 🌩️Java blog
+  - 🌩️Method in java.
 ### Games ###
 - 🌩️Completed daily challenge in Elevate
 - 🌩️Played daily workout in Lumosity.
