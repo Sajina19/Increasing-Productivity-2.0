@@ -104,3 +104,12 @@
  ### Others ###
 - 🌩️[Typing]
 - 🌩️Solved few verbal questions.
+
+## November 11 ##
+> **Tasks**
+### Games ###
+- 🌩️Completed daily challenge in Elevate
+- 🌩️Played daily workout in Lumosity.
+ ### Others ###
+- 🌩️[Typing]
+- 🌩️Solved few verbal questions.
