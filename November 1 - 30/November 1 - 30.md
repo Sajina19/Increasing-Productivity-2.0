@@ -124,3 +124,12 @@
 - 🌩️[Typing]
 - 🌩️Solved few verbal questions.
 - 🌩️[Commonly used jargons](https://zerodha.com/varsity/chapter/commonly-used-jargons/)
+
+
+## November 13 ##
+> **Tasks**
+### Games ###
+- 🌩️Completed daily challenge in Elevate
+- 🌩️Played daily workout in Lumosity.
+ ### Others ###
+- 🌩️[Typing]
