@@ -133,3 +133,13 @@
 - 🌩️Played daily workout in Lumosity.
  ### Others ###
 - 🌩️[Typing]
+
+
+## November 14 ##
+> **Tasks**
+### Games ###
+- 🌩️Completed daily challenge in Elevate
+- 🌩️Played daily workout in Lumosity.
+ ### Others ###
+- 🌩️[Typing]
+- 🌩️Aptitude - time and distance
