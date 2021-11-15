@@ -152,3 +152,4 @@
 - 🌩️Played daily workout in Lumosity.
  ### Others ###
 - 🌩️[Typing]
+- 🌩️Aptitude - Train problems
