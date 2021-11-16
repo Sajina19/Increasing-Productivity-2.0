@@ -153,3 +153,12 @@
  ### Others ###
 - 🌩️[Typing]
 - 🌩️Aptitude - Train problems
+
+
+## November 16 ##
+> **Tasks**
+### Games ###
+- 🌩️Completed daily challenge in Elevate
+ ### Others ###
+- 🌩️[Typing]
+- 🌩️Aptitude - Train problems
