@@ -162,3 +162,4 @@
  ### Others ###
 - 🌩️[Typing]
 - 🌩️Aptitude - Train problems
+- 🌩️Solved few verbal questions.
