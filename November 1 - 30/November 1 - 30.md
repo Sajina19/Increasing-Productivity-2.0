@@ -163,3 +163,12 @@
 - 🌩️[Typing]
 - 🌩️Aptitude - Train problems
 - 🌩️Solved few verbal questions.
+
+
+## November 17 ##
+> **Tasks**
+### Games ###
+- 🌩️Completed daily challenge in Elevate
+ ### Others ###
+- 🌩️[Typing]
+- 🌩️ verbal
