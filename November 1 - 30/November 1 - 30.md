@@ -172,3 +172,12 @@
  ### Others ###
 - 🌩️[Typing]
 - 🌩️ verbal
+
+
+## November 18 ##
+> **Tasks**
+### Games ###
+- 🌩️Completed daily challenge in Elevate
+ ### Others ###
+- 🌩️[Typing]
+- 🌩️ verbal
