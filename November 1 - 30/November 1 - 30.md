@@ -181,3 +181,8 @@
  ### Others ###
 - 🌩️[Typing]
 - 🌩️ verbal
+
+## November 17 ##
+> **Tasks**
+ ### Others ###
+- 🌩️[Typing]
