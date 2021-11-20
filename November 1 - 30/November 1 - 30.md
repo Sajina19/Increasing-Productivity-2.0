@@ -191,3 +191,4 @@
 > **Tasks**
  ### Others ###
 - 🌩️[Typing]
+- 🌩️Aptitude - Time and work
