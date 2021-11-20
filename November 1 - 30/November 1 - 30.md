@@ -182,7 +182,12 @@
 - 🌩️[Typing]
 - 🌩️ verbal
 
-## November 17 ##
+## November 19 ##
+> **Tasks**
+ ### Others ###
+- 🌩️[Typing]
+
+## November 20 ##
 > **Tasks**
  ### Others ###
 - 🌩️[Typing]
