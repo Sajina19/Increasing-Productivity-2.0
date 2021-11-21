@@ -192,3 +192,10 @@
  ### Others ###
 - 🌩️[Typing]
 - 🌩️Aptitude - Time and work
+
+
+## November 21 ##
+> **Tasks**
+ ### Others ###
+- 🌩️[Typing]
+- 🌩️Aptitude - Worked out time and work,pipes and cisterns,Syllogism.
