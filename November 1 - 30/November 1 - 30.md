@@ -199,3 +199,10 @@
  ### Others ###
 - 🌩️[Typing]
 - 🌩️Aptitude - Worked out time and work,pipes and cisterns,Syllogism.
+
+## November 22 ##
+> **Tasks**
+ ### Others ###
+- 🌩️[Typing]
+- 🌩️Aptitude
+- 🌩️DBMS
