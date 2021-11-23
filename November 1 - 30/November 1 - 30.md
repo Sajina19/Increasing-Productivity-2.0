@@ -206,3 +206,10 @@
 - 🌩️[Typing]
 - 🌩️Aptitude
 - 🌩️DBMS
+
+## November 23 ##
+> **Tasks**
+ ### Others ###
+- 🌩️[Typing]
+- 🌩️Aptitude
+- 🌩️DBMS
