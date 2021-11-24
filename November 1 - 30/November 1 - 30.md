@@ -213,3 +213,12 @@
 - 🌩️[Typing]
 - 🌩️Aptitude
 - 🌩️DBMS
+
+
+## November 23 ##
+> **Tasks**
+### Coding ###
+- 🌩️Solved a problem in C
+ ### Others ###
+- 🌩️[Typing]
+- 🌩️Aptitude
