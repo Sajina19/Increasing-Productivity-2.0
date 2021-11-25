@@ -215,10 +215,20 @@
 - 🌩️DBMS
 
 
-## November 23 ##
+## November 24 ##
 > **Tasks**
 ### Coding ###
 - 🌩️Solved a problem in C
  ### Others ###
 - 🌩️[Typing]
 - 🌩️Aptitude
+
+
+## November 25 ##
+> **Tasks**
+### Coding ###
+- 🌩️Solved a problem in C
+ ### Others ###
+- 🌩️[Typing]
+- 🌩️Aptitude
+- 🌩️DBMS
