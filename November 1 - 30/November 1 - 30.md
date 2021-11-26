@@ -232,3 +232,12 @@
 - 🌩️[Typing]
 - 🌩️Aptitude
 - 🌩️DBMS
+
+## November 26 ##
+> **Tasks**
+### Coding ###
+- 🌩️Solved three problem in C
+ ### Others ###
+- 🌩️[Typing]
+- 🌩️Aptitude
+- 🌩️DBMS
