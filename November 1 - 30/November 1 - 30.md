@@ -241,3 +241,9 @@
 - 🌩️[Typing]
 - 🌩️Aptitude
 - 🌩️DBMS
+
+## November 27 ##
+> **Tasks**
+ ### Others ###
+- 🌩️Aptitude
+- 🌩️DBMS
