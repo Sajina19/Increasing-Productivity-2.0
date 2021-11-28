@@ -247,3 +247,9 @@
  ### Others ###
 - 🌩️Aptitude
 - 🌩️DBMS
+
+
+## November 28 ##
+> **Tasks**
+ ### Others ###
+- 🌩️DBMS
