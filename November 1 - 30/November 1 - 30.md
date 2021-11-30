@@ -259,3 +259,8 @@
 > **Tasks**
  ### Others ###
 - 🌩️DBMS
+
+## November 30 ##
+> **Tasks**
+ ### Others ###
+- 🌩️SQL
