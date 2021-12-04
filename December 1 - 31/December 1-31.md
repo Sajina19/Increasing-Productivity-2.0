@@ -21,3 +21,4 @@
 > **Tasks**
  ### Others ###
 - 🌩️Linked List inserting - b,sp,e
+- 🌩️Java data types
