@@ -16,3 +16,8 @@
 - 🌩️Apti
 - 🌩️Typing 
 - 🌩️DS
+
+## December 4 ##
+> **Tasks**
+ ### Others ###
+- 🌩️Linked List inserting - b,sp,e
