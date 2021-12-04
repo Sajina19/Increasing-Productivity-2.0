@@ -22,3 +22,5 @@
  ### Others ###
 - 🌩️Linked List inserting - b,sp,e
 - 🌩️Java data types
+- 🌩️OOps - Constructors
+- 🌩️Solved a java problem.
