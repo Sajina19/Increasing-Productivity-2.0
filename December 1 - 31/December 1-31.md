@@ -24,3 +24,8 @@
 - 🌩️Java data types
 - 🌩️OOps - Constructors
 - 🌩️Solved a java problem.
+
+## December 5##
+> **Tasks**
+- 🌩️Solved 10 questions in time and work - aptitude.
+
