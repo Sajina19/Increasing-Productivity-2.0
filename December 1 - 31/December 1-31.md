@@ -34,3 +34,4 @@
 - 🌩️OOps - Modifiers
 - 🌩️Solved a java problem.
 - 🌩️Java - Static and intializer block.
+- 🌩️Data structures - Deletion of node in linked list.
