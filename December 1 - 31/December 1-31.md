@@ -29,3 +29,7 @@
 > **Tasks**
 - 🌩️Solved 10 questions in time and work - aptitude.
 
+## December 6##
+> **Tasks**
+- 🌩️OOps - Modifiers
+- 🌩️Solved a java problem.
