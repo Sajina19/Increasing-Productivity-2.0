@@ -33,3 +33,4 @@
 > **Tasks**
 - 🌩️OOps - Modifiers
 - 🌩️Solved a java problem.
+- 🌩️Java - Static and intializer block.
