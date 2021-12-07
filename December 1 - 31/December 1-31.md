@@ -35,3 +35,8 @@
 - 🌩️Solved a java problem.
 - 🌩️Java - Static and intializer block.
 - 🌩️Data structures - Deletion of node in linked list.
+
+## December 7##
+> **Tasks**
+ ### Others ###
+- 🌩️Apti
