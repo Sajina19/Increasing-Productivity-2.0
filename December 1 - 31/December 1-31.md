@@ -50,3 +50,4 @@
     - 🌩️Conditional statement
     - 🌩️Switch statement
     - 🌩️Enumeration
+🌩️OOps - Inheritance half
