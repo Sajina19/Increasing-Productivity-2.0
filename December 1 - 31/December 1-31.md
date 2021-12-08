@@ -40,3 +40,13 @@
 > **Tasks**
  ### Others ###
 - 🌩️Apti
+
+## December 8 ##
+> **Tasks**
+ ### Others ###
+- 🌩️Aptitude - time and work
+- 🌩️Java
+    - 🌩️Type Casting
+    - 🌩️Conditional statement
+    - 🌩️Switch statement
+    - 🌩️Enumeration
