@@ -58,3 +58,4 @@
 - 🌩️Aptitude - time and work
 - 🌩️Java - Loops
 - 🌩️Oops - Inheritance
+- 🌩️Data structures - stack
