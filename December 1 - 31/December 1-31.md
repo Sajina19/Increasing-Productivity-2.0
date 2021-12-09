@@ -51,3 +51,10 @@
     - 🌩️Switch statement
     - 🌩️Enumeration
 🌩️OOps - Inheritance half
+
+## December 9 ##
+> **Tasks**
+ ### Others ###
+- 🌩️Aptitude - time and work
+- 🌩️Java - Loops
+- 🌩️Oops - Inheritance
