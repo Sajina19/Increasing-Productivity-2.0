@@ -20,12 +20,12 @@
 ## December 4 ##
 > **Tasks**
  ### Others ###
-- 🌩️Linked List inserting - b,sp,e
+ - 🌩️Linked List inserting - b,sp,e
 - 🌩️Java data types
 - 🌩️OOps - Constructors
 - 🌩️Solved a java problem.
 
-## December 5##
+# December 5##
 > **Tasks**
 - 🌩️Solved 10 questions in time and work - aptitude.
 
@@ -59,3 +59,9 @@
 - 🌩️Java - Loops
 - 🌩️Oops - Inheritance
 - 🌩️Data structures - stack
+
+## December 10 ##
+> **Tasks**
+ ### Others ###
+- 🌩️OOps - Aggregation
+- 🌩️Aptitude - Time and work
