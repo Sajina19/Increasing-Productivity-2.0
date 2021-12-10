@@ -50,7 +50,7 @@
     - 🌩️Conditional statement
     - 🌩️Switch statement
     - 🌩️Enumeration
-🌩️OOps - Inheritance half
+- 🌩️OOps - Inheritance half
 
 ## December 9 ##
 > **Tasks**
