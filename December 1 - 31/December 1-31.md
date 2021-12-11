@@ -70,7 +70,7 @@
 
 ## December 11 ##
 > **Tasks**
- ### Others ###
 - 🌩️OOps - Method Overloading
 - 🌩️Java - Operators 
 - 🌩️Java problems
+- 🌩️Typing 
