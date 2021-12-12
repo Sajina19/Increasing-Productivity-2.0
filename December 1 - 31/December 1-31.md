@@ -74,3 +74,8 @@
 - 🌩️Java - Operators 
 - 🌩️Java problems
 - 🌩️Typing 
+
+
+## December 12 ##
+> **Tasks**
+- 🌩️Typing 
