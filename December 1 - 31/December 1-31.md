@@ -79,3 +79,7 @@
 ## December 12 ##
 > **Tasks**
 - 🌩️Typing 
+
+## December 13 ##
+> **Tasks**
+- 🌩️Java - Arrays
