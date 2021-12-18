@@ -100,3 +100,7 @@
 ## December 17 ##
 > **Tasks**
 - 🌩️Solved few problems in C.
+
+## December 18 ##
+> **Tasks**
+- 🌩️Learning MPMC.
