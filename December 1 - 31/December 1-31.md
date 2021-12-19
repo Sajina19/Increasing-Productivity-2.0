@@ -104,3 +104,7 @@
 ## December 18 ##
 > **Tasks**
 - 🌩️Learning MPMC.
+
+## December 19 ##
+> **Tasks**
+- 🌩️Learning MPMC.
